@@ -1,0 +1,238 @@
+=== meta
+id: gr
+intro: The Greeks invented the polis, democracy, philosophy, history writing, and drama; then Alexander spread Greek culture from Egypt to India. This is one of the two biggest ancient units (15–17%).
+
+=== lesson
+## 1. Geography and the Bronze Age
+Greece is mountains and sea. The **mountains** split the land into small valleys, so Greeks never formed one country. Instead they built hundreds of independent city-states. The **sea** made them traders and colonizers.
+
+Two Bronze Age civilizations came first:
+
+- **Minoans** on the island of **Crete** (c. 2000–1450 BCE): sea traders with a huge palace at **Knossos**, colorful frescoes, and an undeciphered script (**Linear A**). Named by archaeologists after the legendary King Minos.
+- **Mycenaeans** on the mainland (c. 1600–1100 BCE): warrior-kings in fortified palaces (Mycenae), who wrote an early form of Greek (**Linear B**). Their war against **Troy** (c. 1200 BCE) became legend.
+
+After the Late Bronze Age collapse (c. 1100 BCE), Greece fell into a **Dark Age** (c. 1100–800 BCE): trade shrank and **writing was lost**. Around 750 BCE, the poet **Homer** gave Greeks a shared cultural memory with the **Iliad** (the Trojan War, the hero Achilles) and the **Odyssey** (Odysseus' journey home). Homer's heroes model **arete**: excellence, courage, and honor.
+
+## 2. The polis and the Archaic Age (800–500 BCE)
+The **polis** (city-state) was a city plus its surrounding farmland, run by its **citizens**. Each had a fortified hill (**acropolis**) with temples and an open marketplace and meeting place (**agora**). Greeks felt loyalty first to their polis. What united them was **language, religion, and festivals** such as the **Olympic Games** (traditionally first held **776 BCE**) honoring **Zeus**. Greeks also consulted oracles, above all the **Oracle of Apollo at Delphi**.
+
+Overpopulation and land hunger drove **colonization** (c. 750–550 BCE) around the Mediterranean and Black Sea, including southern Italy and Sicily (**Magna Graecia**) and Massilia (Marseille).
+
+How governments changed:
+
+>> Iron weapons are cheaper; middle-class farmers can afford armor | Citizen-soldiers fight as **hoplites** in a tight shield wall, the **phalanx** | The men who defend the polis demand a political voice, weakening aristocrats
+
+A common sequence: **monarchy** (a king) → **aristocracy/oligarchy** (rule by a few rich nobles) → **tyranny** (one man seizes power, often with popular support; "tyrant" did not yet mean cruel) → **democracy** (rule by the citizens).
+
+## 3. Sparta vs. Athens
+**Sparta** (in the Peloponnese) conquered its neighbors and turned them into **helots**, state-owned serfs who outnumbered Spartans many times over. Fear of helot revolt made Sparta a **military state**:
+
+- Boys entered the state training system (**agoge**) at **age 7**; men served in the army until 60.
+- Government (credited to the lawgiver **Lycurgus**) was an **oligarchy** with **two kings**, five elected **ephors** who ran daily affairs, a **council of elders**, and an assembly of citizens.
+- Spartan **women** had unusual freedom: they exercised, **owned property**, and ran estates while men served.
+- Sparta discouraged trade, luxury, and outside ideas and led the **Peloponnesian League**.
+
+**Athens** went the other way: toward democracy, step by step.
+
+| Leader | Date | What he did |
+|---|---|---|
+| **Draco** | 621 BCE | First written law code, famously harsh (death for small crimes): our word "draconian" |
+| **Solon** | 594 BCE | **Cancelled debts and banned debt slavery**; ranked citizens by wealth, not birth |
+| **Peisistratus** | 560s–527 BCE | Popular tyrant; helped small farmers; public works and festivals |
+| **Cleisthenes** | 508/507 BCE | **"Father of Athenian democracy"**: reorganized citizens into **10 tribes**, created the **Council of 500** (chosen by lot), introduced **ostracism** (voting to exile a dangerous man for 10 years) |
+| **Pericles** | 461–429 BCE | Golden Age leader; **paid citizens for jury and public service** so the poor could participate |
+
+Athenian democracy was **direct**: citizens voted in the **Assembly** themselves, and many officials were chosen **by lot**. But it was limited. Only **adult males with citizen parents** (Pericles' law of 451 BCE required both parents) could take part. **Women, slaves, and metics** (resident foreigners) were excluded.
+
+## 4. The Persian Wars (499–479 BCE)
+>> Ionian Greek cities in Asia Minor revolt against Persia (499 BCE), and Athens sends help | **Darius I**, then **Xerxes**, invade Greece | Greek victory; Athens' confidence and power soar
+
+- **Marathon (490 BCE):** Athenian hoplites defeat Darius' landing force. (A runner's legendary dash to Athens gave us the marathon.)
+- **Thermopylae (480 BCE):** King **Leonidas** and **300 Spartans** (with allies) hold a mountain pass against Xerxes' huge army before being wiped out.
+- **Salamis (480 BCE):** **Themistocles** lures the Persian fleet into narrow straits, where Athenian **triremes** (oared warships) crush it. This was the decisive naval battle.
+- **Plataea (479 BCE):** combined Greek army, led by Sparta, defeats the Persian army on land.
+
+The historian **Herodotus**, the "**father of history**," wrote the story of these wars, mixing research with legend.
+
+## 5. Athens' Golden Age and the Peloponnesian War
+After the war, Athens organized the **Delian League** (478 BCE), an alliance of Aegean cities paying into a treasury on the island of Delos to defend against Persia. Athens gradually turned it into an **Athenian empire**: it forced members to stay, and in 454 BCE moved the treasury to Athens. Pericles used the money to rebuild the **Acropolis**, including the **Parthenon** (temple of Athena, **Doric** style, sculptures supervised by **Phidias**).
+
+Sparta and its allies feared Athenian power. The result was the **Peloponnesian War (431–404 BCE)**:
+
+>> Fear of Athens' growing empire (Thucydides' explanation) | Athens (sea power) vs. Sparta (land power), 27 years of war | Athens defeated; all of Greece exhausted and open to outside conquest
+
+- **Pericles' strategy:** keep everyone behind Athens' **Long Walls** to the port and rely on the navy. Then a **plague (430 BCE)** swept the crowded city and killed Pericles (429 BCE).
+- **Sicilian Expedition (415–413 BCE):** Athens, urged on by **Alcibiades**, attacked Syracuse and lost its whole force, a catastrophe.
+- Sparta built a navy with **Persian gold** and destroyed Athens' fleet at **Aegospotami (405 BCE)**. Athens surrendered in **404 BCE**, and Sparta installed the brutal "**Thirty Tyrants**" (soon overthrown).
+
+The historian **Thucydides**, an Athenian general, wrote the war's history with critical analysis of causes and evidence and without divine explanations. He preserved **Pericles' Funeral Oration**, a famous praise of Athenian democracy. Afterward, Sparta and then **Thebes** (victory at Leuctra, 371 BCE) briefly dominated a weakened Greece.
+
+## 6. Greek culture and thought
+**Religion:** Olympian gods with human personalities; public festivals; no sacred scripture or powerful priestly class. This left room for rational inquiry.
+
+**Drama** grew out of festivals for **Dionysus**. Tragedies often show a great person destroyed by **hubris** (excessive pride), followed by divine punishment (*nemesis*).
+
+| Writer | Type | Known for |
+|---|---|---|
+| **Aeschylus** | Tragedy | *Oresteia*: from blood revenge to justice through courts |
+| **Sophocles** | Tragedy | *Oedipus Rex*, *Antigone* (divine law vs. the state's law) |
+| **Euripides** | Tragedy | *Medea*, *The Trojan Women*: realistic, questioned war and tradition |
+| **Aristophanes** | Comedy | *Lysistrata*, *The Clouds*: political satire (mocked Socrates) |
+
+**Philosophy** began when thinkers sought **natural, rational explanations** instead of myths:
+
+- **Thales** of Miletus: everything is made of **water** (the first to look for a natural first substance). **Pythagoras**: reality is explained by **numbers**. **Democritus**: everything is made of tiny **atoms**.
+- **Hippocrates**: "father of medicine." Disease has **natural causes**, not divine ones; the Hippocratic Oath.
+- **Sophists**: paid teachers of **rhetoric** who taught that truth is relative. **Protagoras**: "**Man is the measure of all things.**"
+
+The big three (learn the order **S-P-A**: each taught the next):
+
+- **Socrates** (469–399 BCE) wrote nothing. He used the **Socratic method**, asking probing questions to expose ignorance and reach truth. "**The unexamined life is not worth living.**" Athens executed him in **399 BCE** (by hemlock) for impiety and "corrupting the youth."
+- **Plato** (Socrates' student) founded the **Academy**. In his **Theory of Forms**, the physical world is a shadow of perfect, unchanging ideas (the **Allegory of the Cave**). In the **Republic**, he described an ideal state ruled by **philosopher-kings**. He distrusted democracy, which had killed his teacher.
+- **Aristotle** (Plato's student; tutor of Alexander) founded the **Lyceum**. He relied on **observation and classification** (biology), formal **logic** (the syllogism), and in *Politics* favored a balanced, **mixed constitution**; in *Ethics*, the **golden mean** (virtue lies between extremes). His works later shaped Islamic and medieval Christian thought (Aquinas).
+
+**Art and architecture:** Classical style aimed at **balance, proportion, and idealized human beauty**. Three column orders: **Doric** (plain; the Parthenon), **Ionic** (scroll capitals), and **Corinthian** (leafy, ornate).
+
+## 7. Macedon and Alexander the Great
+>> Greek city-states exhaust each other in endless wars | **Philip II** of Macedon, with a reformed phalanx using long pikes (*sarissas*), defeats Athens and Thebes at **Chaeronea (338 BCE)** | Greek independence ends; Philip controls Greece through the League of Corinth
+
+Philip was assassinated in 336 BCE. His son **Alexander the Great** (ruled 336–323 BCE), taught by **Aristotle**, invaded Persia: victories at the **Granicus (334)**, **Issus (333)**, and **Gaugamela (331)** destroyed the empire of **Darius III**. He took Egypt and founded **Alexandria**, and pushed to the Indus River in **India** (326 BCE) before his exhausted army refused to go on. He died in Babylon in **323 BCE**, age 32, with no clear heir.
+
+## 8. The Hellenistic Age (323–31 BCE)
+"Hellenistic" means "Greek-like": a blend of Greek culture with Egyptian, Persian, and other Near Eastern cultures.
+
+**Politics:** Alexander's generals (the *Diadochi*, "successors") split the empire into three big kingdoms ruled by Greek-Macedonian dynasties:
+
+- **Ptolemaic** Egypt (capital Alexandria; its last ruler was **Cleopatra VII**)
+- **Seleucid** Empire (Syria, Mesopotamia, Persia)
+- **Antigonid** Macedonia (dominating Greece)
+
+These were **monarchies** with Greek-speaking elites over non-Greek majorities. Rome conquered them one by one; the last, Egypt, fell in **31–30 BCE**.
+
+**Culture:** a **cosmopolitan** world united by a common Greek dialect, **koine**. **Alexandria** became the greatest city, with its **Library** and **Museum** (a research center) and the **Pharos lighthouse**.
+
+**Science** flourished:
+
+- **Euclid**: *Elements*, the foundation of **geometry**.
+- **Archimedes**: lever, buoyancy ("**Eureka!**"), approximation of pi.
+- **Eratosthenes**: measured the **Earth's circumference** with remarkable accuracy.
+- **Aristarchus**: proposed that the Earth revolves around the **Sun** (heliocentrism), an idea mostly rejected until Copernicus.
+
+**Philosophy** turned from the polis to the individual: how to find peace in a big, uncertain world?
+
+| School | Founder | Core idea |
+|---|---|---|
+| **Stoicism** | **Zeno** | Live by reason and virtue; accept fate calmly; all people share a universal reason (**natural law, brotherhood of humanity**); do your duty. Later very popular in Rome. |
+| **Epicureanism** | **Epicurus** | Goal is **pleasure understood as absence of pain** and peace of mind (*ataraxia*); avoid politics; the universe is atoms; gods don't interfere. |
+| **Cynicism** | **Diogenes** | Reject wealth, social convention, and comfort; live simply "like a dog." |
+
+**Art** shifted from calm idealism to **realism and emotion**: wrinkled old people, suffering, and dramatic motion (*Laocoön*, *Winged Victory of Samothrace*, *Dying Gaul*). **Religion:** many turned to **mystery religions** (like the cult of **Isis**) that promised personal salvation.
+
+## Big picture for the exam
+Know the **Athens vs. Sparta** contrast, the **Athenian reformers in order** (Draco → Solon → Peisistratus → Cleisthenes → Pericles), the **Persian War battles** and their winners, the **causes and results of the Peloponnesian War**, **who said/wrote what** (philosophers, dramatists, historians), and **Classical vs. Hellenistic** differences in politics, art, and philosophy.
+
+=== mustknow
+- **Polis** = independent city-state (acropolis + agora); mountains kept Greece politically divided; shared language, gods, and **Olympics (776 BCE)** united it culturally.
+- **Hoplite phalanx** gave middle-class citizen-soldiers political power, undermining aristocracy.
+- **Sparta:** helots, military training from age 7, two kings + ephors (oligarchy), women could own property.
+- Athens' path to democracy: **Draco** (harsh written law) → **Solon** (ended debt slavery) → **Cleisthenes** (10 tribes, Council of 500, ostracism; "father of democracy") → **Pericles** (pay for public service).
+- Athenian democracy was **direct** but excluded **women, slaves, and metics**.
+- Persian Wars: **Marathon 490** (Athens wins), **Thermopylae 480** (Spartan stand), **Salamis 480** (decisive naval win, Themistocles). Herodotus wrote the history.
+- **Delian League** became an Athenian empire → Sparta's fear → **Peloponnesian War 431–404** (plague, Sicilian disaster, Sparta wins with Persian money). Thucydides wrote the history.
+- **Socrates** (questioning method; executed 399) → **Plato** (Forms, Republic, philosopher-kings) → **Aristotle** (observation, logic, golden mean; tutored Alexander).
+- **Alexander** (336–323) conquered Persia to India; **Hellenistic** kingdoms: Ptolemaic Egypt, Seleucid Asia, Antigonid Macedon; **Alexandria** = Library and Museum.
+- Hellenistic thought: **Stoicism** (Zeno; virtue, duty, natural law, brotherhood), **Epicureanism** (Epicurus; tranquility as absence of pain); science of **Euclid, Archimedes, Eratosthenes, Aristarchus**; art turns **realistic and emotional**.
+
+=== compare
+| | Sparta | Athens |
+|---|---|---|
+| Government | Oligarchy: 2 kings, 5 ephors, council of elders | Direct democracy (after Cleisthenes) |
+| Economy | Farming by helots; trade discouraged | Trade, silver mines, navy, empire |
+| Military | Professional land army; training from age 7 | Navy of triremes rowed by poorer citizens |
+| Women | Exercised, owned property | Secluded at home; no political rights |
+| Culture | Austere; few arts | Philosophy, drama, architecture |
+| Alliance | Peloponnesian League | Delian League |
+
+| | Classical (c. 480–323 BCE) | Hellenistic (323–31 BCE) |
+|---|---|---|
+| Political unit | Independent polis | Large monarchies (Ptolemies, Seleucids, Antigonids) |
+| Center | Athens | Alexandria |
+| Philosophy | Socrates, Plato, Aristotle: the good citizen and state | Stoics, Epicureans, Cynics: individual peace of mind |
+| Art | Idealized, calm, balanced | Realistic, emotional, dramatic |
+| Outlook | Greek vs. "barbarian" | Cosmopolitan; koine Greek everywhere |
+
+=== timeline
+-2000 | c. 2000 BCE | Minoan palace civilization on Crete (Knossos)
+-1600 | c. 1600 BCE | Mycenaean kingdoms on the mainland (Linear B)
+-1200 | c. 1200 BCE | Legendary Trojan War; then Mycenaean collapse
+-1100 | c. 1100–800 BCE | Greek Dark Age: writing lost
+*-776 | 776 BCE | First Olympic Games (traditional date)
+-750 | c. 750 BCE | Homer's *Iliad* and *Odyssey*; colonization begins; Greek alphabet
+-621 | 621 BCE | Draco's harsh law code in Athens
+*-594 | 594 BCE | **Solon** cancels debts and ends debt slavery
+*-508 | 508/507 BCE | **Cleisthenes**' reforms: Athenian democracy
+-499 | 499 BCE | Ionian Revolt against Persia
+*-490 | 490 BCE | **Battle of Marathon**: Athens defeats Darius
+*-480 | 480 BCE | **Thermopylae** and **Salamis**: Xerxes' invasion stopped
+-479 | 479 BCE | Plataea: Persian army defeated
+-478 | 478 BCE | Delian League formed under Athens
+*-461 | 461–429 BCE | **Age of Pericles**; Parthenon built (447–432)
+*-431 | 431–404 BCE | **Peloponnesian War**: Sparta defeats Athens
+-415 | 415–413 BCE | Athens' Sicilian Expedition ends in disaster
+*-399 | 399 BCE | **Socrates** executed
+-387 | c. 387 BCE | Plato founds the Academy
+*-338 | 338 BCE | **Chaeronea**: Philip II of Macedon conquers Greece
+*-334 | 334–323 BCE | **Alexander the Great** conquers the Persian Empire
+*-323 | 323 BCE | Alexander dies; **Hellenistic Age** begins
+-300 | c. 300 BCE | Euclid in Alexandria; Zeno and Epicurus teach in Athens
+-31 | 31–30 BCE | Rome conquers Ptolemaic Egypt; Hellenistic Age ends
+
+=== people
+Homer | Epic poet: *Iliad* and *Odyssey*; heroic ideal of *arete*
+Solon | Athenian reformer: cancelled debts, ended debt slavery (594 BCE)
+Cleisthenes | "Father of Athenian democracy": 10 tribes, Council of 500, ostracism
+Pericles | Leader of Golden Age Athens; Parthenon; pay for public office; Funeral Oration
+Themistocles | Built Athens' navy; won at Salamis (480 BCE)
+Herodotus | "Father of history"; wrote on the Persian Wars
+Thucydides | Critical historian of the Peloponnesian War
+Socrates | Questioning (Socratic) method; executed 399 BCE
+Plato | Theory of Forms; *Republic* with philosopher-kings; Academy
+Aristotle | Logic, observation, golden mean; Lyceum; tutored Alexander
+Sophocles | Tragedian: *Oedipus Rex*, *Antigone*
+Aristophanes | Comic playwright; satire (*Lysistrata*, *The Clouds*)
+Alexander the Great | Conquered Persia to India (336–323 BCE); spread Greek culture
+Zeno / Epicurus | Founders of Stoicism / Epicureanism
+Euclid / Archimedes | Hellenistic geometry / physics and engineering
+
+=== cards
+Polis :: Greek city-state: a city and its farmland governed by citizens; typically with an acropolis and agora.
+Acropolis :: Fortified hilltop of a Greek city with its main temples (Athens: the Parthenon).
+Agora :: Open marketplace and public meeting place of a Greek polis.
+Hoplite / phalanx :: Heavily armed citizen-infantryman fighting in a tight shield wall; gave middle-class men political leverage.
+Tyrant (Greek) :: Ruler who seized power outside the normal rules, often with popular support; not necessarily cruel.
+Helots :: State-owned serfs of Sparta; fear of their revolt shaped Sparta's military society.
+Ephors :: Five annually elected Spartan officials who ran daily government and checked the two kings.
+Draco :: Athenian lawgiver (621 BCE) whose first written code was extremely harsh ("draconian").
+Solon :: Athenian reformer (594 BCE) who cancelled debts, abolished debt slavery, and ranked citizens by wealth.
+Cleisthenes :: "Father of Athenian democracy" (508/507 BCE): 10 tribes, Council of 500, ostracism.
+Ostracism :: Athenian vote to exile a potentially dangerous citizen for 10 years.
+Metics :: Resident foreigners in Athens: free, could trade, but could not vote or own land.
+Battle of Marathon :: 490 BCE: Athenian hoplites defeated Darius I's invading force.
+Battle of Salamis :: 480 BCE: Themistocles' Athenian-led fleet destroyed Xerxes' navy; decisive victory of the Persian Wars.
+Delian League :: Athenian-led alliance against Persia (478 BCE) that Athens turned into its own empire.
+Pericles :: Leader of Athens 461–429 BCE: Golden Age, Parthenon, paid public service; died of the plague.
+Peloponnesian War :: 431–404 BCE war of Athens vs. Sparta; Sparta won with Persian help; recorded by Thucydides.
+Herodotus vs. Thucydides :: Herodotus = "father of history," Persian Wars, includes legends; Thucydides = Peloponnesian War, critical analysis.
+Hubris :: Excessive pride that leads to a tragic hero's downfall in Greek drama.
+Sophists :: Paid teachers of rhetoric who taught truth is relative ("Man is the measure of all things": Protagoras).
+Socratic method :: Teaching by asking probing questions to expose contradictions and reach truth.
+Theory of Forms :: Plato's idea that the material world is an imperfect copy of perfect, eternal ideas (Allegory of the Cave).
+Aristotle :: Plato's student; empirical observation, logic (syllogism), golden mean, mixed constitution; tutored Alexander.
+Golden mean :: Aristotle's idea that virtue lies between two extremes (courage between cowardice and rashness).
+Doric / Ionic / Corinthian :: Greek column orders: plain (Parthenon) / scroll capital / ornate leaves.
+Philip II of Macedon :: Conquered Greece at Chaeronea (338 BCE) with a reformed pike phalanx; father of Alexander.
+Alexander the Great :: King of Macedon 336–323 BCE; conquered the Persian Empire to India; founded Alexandria.
+Hellenistic :: "Greek-like" era (323–31 BCE) blending Greek and Near Eastern cultures in large monarchies.
+Alexandria :: Ptolemaic Egypt's capital; Library, Museum, Pharos lighthouse; center of Hellenistic science.
+Stoicism :: Zeno's philosophy: live by reason and virtue, accept fate, do your duty; all humans share reason (natural law).
+Epicureanism :: Epicurus' philosophy: happiness = pleasure as absence of pain and fear; tranquility; avoid public life.
