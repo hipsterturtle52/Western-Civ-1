@@ -258,8 +258,10 @@ def main():
     rng = random.Random(1648)
     questions, problems = [], []
     for u in units:
-        qpath = os.path.join(ROOT, "src/questions/%s.txt" % u["id"])
-        qs = parse_questions(qpath, u["id"]) if os.path.exists(qpath) else []
+        qs = []
+        for qpath in sorted(glob.glob(os.path.join(ROOT, "src/questions/%s.txt" % u["id"])) +
+                            glob.glob(os.path.join(ROOT, "src/questions/%s-*.txt" % u["id"]))):
+            qs += parse_questions(qpath, u["id"])
         if qs:
             err = assign_pools(qs, {"diag": u["diagN"], "quiz": u["quizN"], "pe1": u["examN"], "pe2": u["examN"]}, rng)
             if err:
