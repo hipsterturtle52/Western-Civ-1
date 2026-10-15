@@ -119,6 +119,7 @@ def parse_unit(path, plan):
             die("%s timeline line malformed: %s" % (uid, l))
         key = parts[0].startswith("*")
         timeline.append({"y": float(parts[0].lstrip("*")), "label": parts[1], "text": inline(parts[2]), "key": key})
+    timeline.sort(key=lambda t: t["y"])
     people = []
     for l in s.get("people", "").splitlines():
         if l.strip():

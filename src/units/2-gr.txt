@@ -44,6 +44,18 @@ A common sequence: **monarchy** (a king) → **aristocracy/oligarchy** (rule by 
 
 Athenian democracy was **direct**: citizens voted in the **Assembly** themselves, and many officials were chosen **by lot**. But it was limited. Only **adult males with citizen parents** (Pericles' law of 451 BCE required both parents) could take part. **Women, slaves, and metics** (resident foreigners) were excluded.
 
+### How Athenian democracy actually worked
+- **Assembly (Ekklesia):** all male citizens, meeting about 40 times a year on the Pnyx hill; voted directly on war, peace, and laws.
+- **Council of 500 (Boule):** 50 men from each of the 10 tribes, chosen **by lot** for one year; prepared the Assembly's agenda.
+- **Courts:** huge juries (often 201 to 501 citizens) chosen by lot. No professional judges or lawyers; citizens argued their own cases.
+- **Generals (strategoi):** the one major office that was **elected**, not chosen by lot, because it needed skill. Ten were chosen each year and could be re-elected; Pericles held the office for years.
+- The older **Areopagus** council of ex-officials (aristocratic) lost most of its power in the 460s.
+
+### Daily life: households, women, slaves
+The Greek household (*oikos*) was the basic economic unit. In Athens, **women** married young, managed the home, and had **no political rights**; respectable women rarely appeared in public except at religious festivals. **Slavery** was everywhere: perhaps a third of Athens' population was enslaved, mostly war captives and non-Greeks, working in homes, workshops, and the brutal **Laurium silver mines** that funded the navy. Aristotle even defended "natural slavery." The paradox the exam likes: **Athens' freedom for citizens rested on the unfreedom of many others.**
+
+Most Greeks were small farmers growing the "Mediterranean triad" of **grain, olives, and grapes**. Thin soil pushed Athens to import grain from the Black Sea, which is why control of the sea mattered so much.
+
 ## 4. The Persian Wars (499–479 BCE)
 >> Ionian Greek cities in Asia Minor revolt against Persia (499 BCE), and Athens sends help | **Darius I**, then **Xerxes**, invade Greece | Greek victory; Athens' confidence and power soar
 

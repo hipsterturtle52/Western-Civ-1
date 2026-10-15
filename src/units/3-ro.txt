@@ -1,0 +1,252 @@
+=== meta
+id: ro
+intro: How a small city on the Tiber built a republic, conquered the Mediterranean, became an empire, adopted Christianity, and lost its western half to Germanic kingdoms. Worth 15–17% of the exam.
+
+=== lesson
+## 1. Origins and the early Republic
+Rome sits on the **Tiber River** in central Italy, with good farmland and a central position in the Mediterranean. Legend says **Romulus and Remus** founded it in **753 BCE**. Early Rome was ruled by kings and strongly influenced by its northern neighbors, the **Etruscans** (engineering, the arch, the toga, gladiator contests, and the alphabet they had borrowed from the Greeks). Greek colonies in the south passed on Greek gods, art, and ideas.
+
+>> Romans hate the arrogant Etruscan king **Tarquin the Proud** | They expel him in **509 BCE** | They create a **republic** ("res publica," the public thing) designed so that no one man could ever be king again
+
+### Government of the Republic
+| Institution | Who / how | Power |
+|---|---|---|
+| **Consuls** (2) | Elected for **1 year** | Ran government and commanded armies; each could **veto** the other |
+| **Senate** | About 300 men, originally **patricians**, served for life | Controlled finances and foreign policy; advised magistrates; most prestige |
+| **Dictator** | Appointed in emergency for **max 6 months** | Absolute power. Model: **Cincinnatus**, who saved Rome, then returned to his plow |
+| **Tribunes** | Elected by the plebeians | Protected plebeians; could **veto** ("I forbid") acts of magistrates and the Senate |
+| **Assemblies** | Citizens voting in groups | Elected magistrates and passed laws |
+| Praetors, censors | Elected officials | Justice; census and public morals |
+
+The Greek historian **Polybius** admired this **mixed constitution**: consuls (monarchy), Senate (aristocracy), and assemblies (democracy) checking one another. Its ideas of **checks and balances** and **veto** influenced later republics, including the United States.
+
+### Struggle of the Orders (494–287 BCE)
+Rome's society split into **patricians** (wealthy landowning aristocrats) and **plebeians** (the common majority: farmers, artisans, merchants). Plebeians fought for equality mostly by **refusing to fight** (going on strike, called "secession"), since the army needed them.
+
+- **494 BCE:** plebeians win their own officials, the **tribunes**.
+- **c. 450 BCE:** the **Twelve Tables**, Rome's first written laws, posted publicly in the Forum so patrician judges could not twist unwritten custom.
+- **367 BCE:** one consul could be (later had to be) a plebeian.
+- **287 BCE:** the **Hortensian Law** made decisions of the plebeian assembly binding on all Romans.
+
+In practice, rich plebeians merged with patricians into a new ruling class (the *nobiles*), so Rome never became a true democracy.
+
+**Roman values:** the father of the family (*paterfamilias*) held legal power over his household; society ran on **patron-client** relationships (powerful patrons protected clients, who gave loyalty and votes); and Romans prized ***pietas*** (duty to gods, family, and state), ***gravitas*** (seriousness), and the "**custom of the ancestors**" (*mos maiorum*).
+
+## 2. Conquest of the Mediterranean
+Rome conquered Italy by about 265 BCE and treated many defeated peoples generously, making them **allies** or granting partial **citizenship**. Loyal allies supplied soldiers, and **roads** linked them to Rome.
+
+Then came the **Punic Wars** against **Carthage**, the Phoenician-founded trading power of North Africa:
+
+| War | Dates | Key facts |
+|---|---|---|
+| **First** | 264–241 BCE | Fought over **Sicily**; Rome built its **first navy** and won Sicily, its first province |
+| **Second** | 218–201 BCE | **Hannibal** crossed the **Alps with elephants**, crushed Rome at **Cannae (216 BCE)**, but couldn't take the city; **Scipio Africanus** invaded Africa and beat him at **Zama (202 BCE)** |
+| **Third** | 149–146 BCE | "**Carthage must be destroyed**" (**Cato the Elder**); Rome razed Carthage and enslaved its people |
+
+Also in **146 BCE**, Rome destroyed Corinth; Macedonia and Greece became Roman. By the first century BCE, the Mediterranean was a Roman lake: *mare nostrum*, "our sea."
+
+## 3. Why conquest wrecked the Republic
+>> Conquest floods Italy with **slaves**, plunder, and cheap grain; rich men build huge slave-run estates, the **latifundia** | Small farmers, away at war for years, lose their land and drift into Rome as a jobless urban poor | Huge wealth gap, angry mobs, and ambitious generals: the Republic slides into civil war
+
+- **The Gracchi brothers:** **Tiberius Gracchus** (tribune, 133 BCE) proposed giving public land to the poor; senators killed him. His brother **Gaius Gracchus** (123–121 BCE) pushed land reform and **cheap grain** for the urban poor and was also killed. Political violence was now normal. Politicians split into **optimates** (Senate party) and **populares** (who appealed to the people).
+- **Gaius Marius** (consul 107 BCE and many times after) reformed the army by recruiting **landless volunteers** who were paid and promised land. Soldiers now looked to their **general**, not the state, for rewards: **private armies**.
+- **Sulla** used his army to **march on Rome** (88 BCE), then made himself dictator (82 BCE) and killed his enemies.
+- **Spartacus**, a gladiator, led a massive **slave revolt (73–71 BCE)**, crushed by Crassus.
+
+### Julius Caesar and the end of the Republic
+- **First Triumvirate (60 BCE):** an informal alliance of **Julius Caesar**, **Pompey**, and **Crassus**.
+- Caesar conquered **Gaul** (58–50 BCE) and won a loyal army and fame.
+- Ordered to disband, he **crossed the Rubicon** River with his army (**49 BCE**), starting civil war and defeating Pompey.
+- As dictator he reformed debt and land, expanded citizenship, enlarged the Senate, and created the 365-day **Julian calendar**. In early 44 BCE he was named **dictator for life**.
+- On the **Ides of March, 44 BCE**, senators led by **Brutus** and **Cassius** stabbed him to death to "save the Republic." The orator **Cicero**, the Republic's great defender, was murdered the next year.
+- **Second Triumvirate (43 BCE):** **Octavian** (Caesar's adopted heir), **Mark Antony**, and Lepidus. Octavian then defeated Antony and **Cleopatra** of Egypt at **Actium (31 BCE)**.
+
+## 4. The Empire and the Pax Romana
+In **27 BCE**, the Senate gave Octavian the title **Augustus** ("revered one"). He called himself ***princeps*** ("first citizen") and **kept the Republic's outward forms** (Senate, consuls, elections) while actually controlling the army, provinces, and treasury. This system is the **Principate**.
+
+Augustus created a **professional standing army** and the **Praetorian Guard**, built a salaried civil service, took censuses, and rebuilt Rome ("found a city of brick and left it marble"). His reign began the **Pax Romana** ("Roman Peace," **27 BCE–180 CE**): two centuries of relative peace, trade, and prosperity across the Mediterranean.
+
+Emperors to know:
+
+- **Julio-Claudians:** Tiberius, Caligula, Claudius (conquered Britain), **Nero** (blamed Christians for the **Great Fire of 64 CE**).
+- **Flavians:** Vespasian (began the **Colosseum**); his son **Titus** destroyed **Jerusalem's Temple in 70 CE** during the Jewish revolt.
+- **"Five Good Emperors"** (96–180 CE), each choosing a capable adopted heir: Nerva, **Trajan** (empire's **greatest extent**, 117 CE), **Hadrian** (stopped expanding; **Hadrian's Wall** in Britain), Antoninus Pius, and **Marcus Aurelius** (a Stoic philosopher who wrote the ***Meditations***). His unfit son **Commodus** ended the good run.
+
+Cities had public baths, forums, and amphitheaters. Emperors kept the urban poor quiet with free grain and games: "**bread and circuses**." In **212 CE**, Emperor Caracalla granted **citizenship to all free men** in the empire.
+
+## 5. Roman law, thought, and culture
+**Law** may be Rome's greatest legacy. It grew from the Twelve Tables to the ***ius civile*** (law for citizens) and the ***ius gentium*** ("**law of nations**," applied to all peoples), and jurists linked it to **natural law**, the Stoic idea of universal principles of justice knowable by reason. Principles such as **innocent until proven guilty** and judging intent survived through **Justinian's Code** (Unit 4) into modern European law.
+
+Romans admired and absorbed Greek culture (**Greco-Roman** civilization) but were more **practical**:
+
+- **Engineering:** the **arch**, **concrete**, **aqueducts**, a vast **road** network, the **Colosseum**, and the domed **Pantheon**.
+- **Literature (the "Golden Age" under Augustus):** **Virgil**'s ***Aeneid***, an epic linking Rome's founding to the Trojan hero Aeneas and glorifying Augustus; **Horace** (odes); **Ovid** (*Metamorphoses*; exiled by Augustus); **Livy**'s history of Rome from its founding, full of moral lessons.
+- **History & thought:** **Tacitus** criticized imperial tyranny and, in *Germania*, praised Germanic tribes' simple virtues to shame Roman decadence. **Cicero** = Latin prose and oratory, defense of the Republic and natural law. **Lucretius** spread Epicurean philosophy; **Seneca** and **Marcus Aurelius** were **Stoics**. **Stoicism** fit Roman ideals of duty.
+- **Science:** **Galen** (medicine, dominant for 1,400 years) and **Ptolemy** (a geocentric, Earth-centered model of the universe, accepted until Copernicus). Both wrote in Greek.
+- **Latin** became the root of the **Romance languages** (Italian, French, Spanish, Portuguese, Romanian).
+
+## 6. Early Christianity
+**Jesus of Nazareth** (c. 4 BCE–c. 30 CE) was a Jewish teacher in **Judea**, then under Roman rule. He preached love of God and neighbor, forgiveness, and the coming **Kingdom of God**. The Roman governor **Pontius Pilate** had him **crucified**; his followers proclaimed his **resurrection** and called him the **Christ** (Messiah).
+
+**Paul of Tarsus**, a Jewish convert, was the key missionary. He took the faith to **Gentiles** (non-Jews), taught that salvation came through **faith in Christ** rather than following Jewish law, and wrote letters (**Epistles**) that form much of the New Testament. **Peter**, leader of the apostles, was martyred in Rome; the **bishop of Rome (the pope)** later claimed authority as Peter's successor (the **Petrine doctrine**).
+
+>> Pax Romana's safe **roads and sea lanes**, a common Greek language, and a message of **salvation and equality** open to all, including slaves, women, and the poor | Christianity spreads city to city through tight-knit communities that care for widows and the sick | Despite persecution, Christians become a large minority by 300 CE
+
+Romans tolerated most religions, but Christians **refused to sacrifice to the emperor and Roman gods**, which seemed disloyal. Persecution came in waves: **Nero (64 CE)**, **Decius (250)**, and the **Great Persecution** under **Diocletian (303)**. **Martyrs** inspired others.
+
+The Church organized itself on Roman lines: **bishops** headed city churches (**dioceses**), and bishops of great cities (Rome, Alexandria, Antioch, later Constantinople) gained special authority.
+
+**Church Fathers** shaped Christian thought:
+
+- **Jerome:** translated the Bible into Latin, the **Vulgate**.
+- **Ambrose:** bishop of Milan; insisted the emperor was **within the Church, not above it** (forced Theodosius to do penance).
+- **Augustine of Hippo** (354–430): ***Confessions*** (his conversion) and ***City of God***, written after the **410 sack of Rome**, contrasting the doomed **earthly city** with the eternal **City of God**. He stressed **original sin** and God's **grace**.
+
+## 7. Crisis and reform: the late Empire
+**Crisis of the Third Century (235–284 CE):** some 20+ emperors in 50 years, most murdered; armies making and unmaking emperors; invasions on the Rhine, Danube, and from Persia; **plague**; and runaway **inflation** as emperors **debased the coinage** to pay soldiers.
+
+**Diocletian** (284–305) restored order with force:
+
+- Split the empire into **East and West** and created the **Tetrarchy** (rule of four: two senior emperors and two juniors).
+- Issued a **price edict** (wage and price controls, which failed), raised taxes, and tied people to their jobs: tenant farmers (**coloni**) were bound to the land, an early step toward **serfdom**.
+- Launched the **Great Persecution** of Christians (303).
+
+**Constantine** (306–337) reversed course on religion:
+
+- Before the **Battle of the Milvian Bridge (312)** he reportedly saw a vision of the cross ("**In this sign, conquer**"), and won.
+- The **Edict of Milan (313)** granted **toleration** to Christianity.
+- He called the **Council of Nicaea (325)**, which condemned **Arianism** (the belief that Jesus was a created being, lesser than God the Father) and produced the **Nicene Creed**.
+- He moved the capital east to **Constantinople** (founded **330** on old Byzantium), a sign that the empire's wealth lay in the East.
+
+**Theodosius I** made Christianity the **official state religion (380)** and banned pagan sacrifices. After his death in **395**, the empire **split permanently** into Western and Eastern (Byzantine) halves.
+
+## 8. The Germanic invasions and the fall of the West
+>> **Huns** from Central Asia push west (370s) | Germanic peoples flee into the empire: the **Visigoths** cross the Danube (376) and destroy a Roman army at **Adrianople (378)**, killing Emperor Valens | The West can no longer control its borders; Germanic kingdoms replace Roman rule by 476
+
+- **410:** **Alaric** and the **Visigoths** **sack Rome**, the first time in 800 years.
+- **451:** **Attila the Hun** is checked at the **Catalaunian Plains** (Châlons) in Gaul; in 452 **Pope Leo I** meets Attila and persuades him to spare Rome.
+- **455:** the **Vandals** (from their kingdom in **North Africa**) sack Rome.
+- **476:** the Germanic general **Odoacer** deposes the last western emperor, the boy **Romulus Augustulus**: the traditional "**fall of Rome**." The **Eastern Empire** continued for nearly 1,000 more years.
+
+**Why did the West fall?** Historians list many interacting causes: **political** (instability, civil wars), **economic** (heavy taxes, inflation, declining trade and cities), **military** (overstretched borders, reliance on Germanic mercenaries and *foederati*, "federated" allies, who had their own loyalties), **division** (the richer East looked after itself), and **external pressure** (the Huns and migrating Germanic peoples). Edward Gibbon (18th century) also blamed Christianity and lost civic virtue, a view that is debated.
+
+**New Germanic kingdoms (c. 500):** **Ostrogoths** in Italy (King **Theodoric**), **Visigoths** in Spain, **Franks** in Gaul, **Anglo-Saxons** in Britain, **Vandals** in North Africa.
+
+**Germanic customs:** loyalty of warriors to their chief (the ***comitatus***, a root of feudal loyalty); **unwritten customary law**; ***wergild*** ("man-money," a fine paid to the victim's family, scaled by the victim's rank, instead of blood feud); **trial by ordeal**. Most Goths were **Arian** Christians, which separated them from their Catholic Roman subjects.
+
+## Big picture for the exam
+Know the **Republic's institutions** and the **plebeian gains**; the **Punic Wars**; the chain **conquest → latifundia → Gracchi → generals' private armies → Caesar → Augustus**; how Augustus **disguised monarchy** as Republic; Roman **law, engineering, and writers**; **Paul** and **Augustine**; **Diocletian vs. Constantine**; and the **sequence of invasions** ending in **476**.
+
+=== mustknow
+- **509 BCE** Republic: 2 **consuls** (1 year, mutual veto), **Senate** (finance, foreign policy), **tribunes** (plebeian veto), emergency **dictator** (6 months; Cincinnatus).
+- **Struggle of the Orders:** tribunes (494), **Twelve Tables** (c. 450, first written law), plebeian consul (367), **Hortensian Law** (287).
+- **Punic Wars** vs. Carthage: Hannibal crosses the Alps, wins at **Cannae (216)**; **Scipio** wins at **Zama (202)**; Carthage destroyed **146 BCE**.
+- Conquest → slave-run **latifundia** → ruined small farmers → **Gracchi** reforms (133, 123 BCE) → **Marius**' volunteer army loyal to generals → civil wars.
+- **Julius Caesar:** conquered Gaul, crossed the **Rubicon (49)**, dictator for life, Julian calendar; assassinated **44 BCE**.
+- **Augustus** (27 BCE–14 CE): **princeps**, kept Republican forms (**Principate**); began the **Pax Romana** (to 180 CE).
+- Culture: **Virgil's Aeneid**, Livy, Tacitus, Cicero; arches, concrete, aqueducts; **Roman law** (*ius gentium*, natural law); Ptolemy's geocentrism, Galen's medicine.
+- **Christianity:** **Paul** spread it to Gentiles; persecutions (Nero, Diocletian); **Edict of Milan (313)**; **Council of Nicaea (325)** vs. **Arianism**; **Theodosius** made it the state religion (380).
+- **Diocletian:** tetrarchy, East/West split, price controls, coloni bound to land. **Constantine:** toleration, Nicaea, **Constantinople (330)**.
+- Fall of the West: **Adrianople (378)**, **Alaric sacks Rome (410)**, Vandals (455), **Odoacer deposes Romulus Augustulus (476)**. **Augustine's City of God** answered the 410 sack.
+
+=== compare
+| | Republic (509–27 BCE) | Empire / Principate (27 BCE–476 CE) |
+|---|---|---|
+| Leaders | Two annual consuls; Senate dominant | Emperor (*princeps*), Republican forms kept |
+| Expansion | Italy, Punic Wars, Greece, Gaul | Peak under Trajan (117 CE), then defense |
+| Army | Citizen militia → Marius' volunteers | Professional standing army |
+| Key crisis | Gracchi, generals, civil wars | Third-century crisis; invasions |
+| Writers | Cicero, Polybius, Lucretius | Virgil, Livy, Tacitus, Seneca, Marcus Aurelius |
+
+| | Diocletian (284–305) | Constantine (306–337) |
+|---|---|---|
+| Structure | Tetrarchy; empire split East/West | Reunited empire under one ruler |
+| Economy | Price edict; coloni tied to land | Continued hereditary jobs; new gold coin (solidus) |
+| Christians | Great Persecution (303) | Edict of Milan (313); Council of Nicaea (325) |
+| Capital | Ruled from the East (Nicomedia) | Founded Constantinople (330) |
+
+=== timeline
+-753 | 753 BCE | Legendary founding of Rome by Romulus
+*-509 | 509 BCE | Last king expelled; **Roman Republic** founded
+-494 | 494 BCE | Plebeians win tribunes (Struggle of the Orders begins)
+*-450 | c. 450 BCE | **Twelve Tables**: first written Roman law
+-287 | 287 BCE | Hortensian Law: plebeian assembly binding on all
+*-264 | 264–146 BCE | **Punic Wars** with Carthage
+-216 | 216 BCE | Hannibal's victory at Cannae
+-202 | 202 BCE | Scipio defeats Hannibal at Zama
+-146 | 146 BCE | Carthage and Corinth destroyed
+*-133 | 133 BCE | **Tiberius Gracchus**' land reform; murdered
+-107 | 107 BCE | Marius' army reforms
+-73 | 73–71 BCE | Spartacus' slave revolt
+*-49 | 49 BCE | **Caesar crosses the Rubicon**
+*-44 | 44 BCE | **Caesar assassinated** (Ides of March)
+-31 | 31 BCE | Actium: Octavian defeats Antony and Cleopatra
+*-27 | 27 BCE | Octavian becomes **Augustus**; **Pax Romana** begins
+30 | c. 30 CE | Crucifixion of Jesus in Judea
+64 | 64 CE | Great Fire of Rome; Nero persecutes Christians
+70 | 70 CE | Titus destroys the Temple in Jerusalem
+117 | 117 CE | Empire's greatest extent under Trajan
+*180 | 180 CE | Marcus Aurelius dies; Pax Romana ends
+235 | 235–284 | Crisis of the Third Century
+*284 | 284 | **Diocletian**: tetrarchy, East/West division
+*313 | 313 | **Edict of Milan**: Christianity tolerated
+*325 | 325 | **Council of Nicaea** condemns Arianism
+330 | 330 | Constantinople dedicated as new capital
+*380 | 380 | Theodosius makes Christianity the state religion
+378 | 378 | Visigoths defeat Rome at Adrianople
+395 | 395 | Empire permanently divided East/West
+*410 | 410 | **Alaric's Visigoths sack Rome**
+451 | 451 | Attila checked at the Catalaunian Plains
+455 | 455 | Vandals sack Rome
+*476 | 476 | **Odoacer deposes Romulus Augustulus**: end of the Western Empire
+
+=== people
+Cincinnatus | Model citizen-dictator who gave up power voluntarily
+Hannibal | Carthaginian general; crossed the Alps; won at Cannae (216 BCE)
+Scipio Africanus | Defeated Hannibal at Zama (202 BCE)
+Tiberius & Gaius Gracchus | Tribunes who pushed land reform; both killed
+Marius / Sulla | Volunteer army loyal to generals / marched on Rome, dictator
+Julius Caesar | Conquered Gaul; crossed the Rubicon; dictator; killed 44 BCE
+Cicero | Orator and statesman; defended the Republic and natural law
+Augustus | First emperor (27 BCE); princeps; Pax Romana
+Virgil | *Aeneid*: epic of Rome's founding honoring Augustus
+Tacitus | Historian; critic of tyranny; *Germania*
+Marcus Aurelius | Stoic emperor; *Meditations*; last of the Five Good Emperors
+Paul of Tarsus | Spread Christianity to Gentiles; Epistles
+Augustine of Hippo | *Confessions*, *City of God*; original sin and grace
+Diocletian | Tetrarchy; split empire; price edict; persecution of 303
+Constantine | Milvian Bridge; Edict of Milan; Nicaea; Constantinople
+Odoacer | Germanic general who deposed the last western emperor (476)
+
+=== cards
+Patricians vs. plebeians :: Rome's aristocratic landowning families vs. the common majority; their conflict was the Struggle of the Orders.
+Consuls :: Two Roman chief magistrates elected for one year; commanded armies; each could veto the other.
+Senate (Roman) :: Council of about 300 aristocrats serving for life; controlled finance and foreign policy.
+Tribunes :: Officials elected by plebeians who could veto actions harmful to plebeians.
+Dictator (Roman) :: Emergency ruler with absolute power for up to six months (e.g., Cincinnatus).
+Twelve Tables :: Rome's first written law code (c. 450 BCE), displayed in the Forum to protect plebeians.
+Mixed constitution :: Polybius' description of Rome balancing monarchy (consuls), aristocracy (Senate), and democracy (assemblies).
+Punic Wars :: Three wars with Carthage (264–146 BCE); Hannibal, Cannae, Zama; Carthage destroyed in 146 BCE.
+Hannibal :: Carthaginian general who crossed the Alps with elephants and beat Rome at Cannae (216 BCE); lost at Zama.
+Latifundia :: Huge slave-worked estates owned by the rich, which pushed small farmers off the land.
+Gracchi :: Brothers Tiberius and Gaius Gracchus, tribunes who sought land reform and grain for the poor; both killed.
+Marius' army reform :: Recruiting landless volunteers paid by their general, creating armies loyal to commanders, not the state.
+Crossing the Rubicon :: Caesar leading his army into Italy (49 BCE), starting civil war; now means a point of no return.
+Julius Caesar :: Conqueror of Gaul, dictator for life, creator of the Julian calendar; assassinated 44 BCE.
+Augustus / princeps :: Octavian's title (27 BCE); "first citizen" who ruled as emperor behind Republican forms.
+Pax Romana :: Roman Peace, 27 BCE–180 CE: two centuries of stability and trade.
+Bread and circuses :: Free grain and public games used to keep Rome's urban poor content.
+Ius gentium :: "Law of nations": Roman law applied to all peoples; linked to natural law.
+Aeneid :: Virgil's epic of Aeneas founding the Roman people; glorified Augustus.
+Tacitus :: Roman historian who criticized imperial tyranny; *Germania* praised Germanic virtues.
+Ptolemy :: 2nd-century astronomer in Alexandria; Earth-centered (geocentric) model.
+Paul of Tarsus :: Apostle to the Gentiles; taught salvation by faith; wrote the Epistles.
+Petrine doctrine :: Claim that the bishop of Rome (pope) inherits Peter's leadership of the Church.
+Edict of Milan :: 313: Constantine and Licinius grant religious toleration to Christians.
+Council of Nicaea :: 325: condemned Arianism; produced the Nicene Creed.
+Arianism :: Heresy that Jesus was created by and lesser than God the Father.
+City of God :: Augustine's work written after the 410 sack of Rome; earthly city vs. heavenly city.
+Diocletian :: Emperor (284–305): tetrarchy, East/West division, price edict, Great Persecution.
+Constantinople :: "New Rome," founded by Constantine in 330 on Byzantium; capital of the Eastern Empire.
+476 CE :: Odoacer deposes Romulus Augustulus: traditional end of the Western Roman Empire.
+Wergild :: Germanic "man-money": compensation paid to a victim's family instead of blood feud.
