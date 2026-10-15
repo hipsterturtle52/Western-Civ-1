@@ -1,0 +1,161 @@
+=== meta
+id: ne
+intro: Where civilization starts: farming, cities, writing, law codes, empires, and the first monotheism. Small slice of the exam (8–10%), but the ideas reappear everywhere later.
+
+=== lesson
+## 1. Why here? The Fertile Crescent
+The **Fertile Crescent** is the arc of good farmland running from Egypt's Nile valley up through the eastern Mediterranean coast and down the **Tigris and Euphrates** rivers in **Mesopotamia** (Greek for "land between the rivers," modern Iraq). Around **10,000 BCE** people here began planting crops and herding animals: the **Neolithic (Agricultural) Revolution**.
+
+>> Farming produces a food surplus | Permanent villages grow into cities | Specialized jobs, social classes, government, and writing appear
+
+A surplus meant not everyone had to farm. Some people became priests, scribes, soldiers, and artisans. Historians call a society with cities, organized government, organized religion, job specialization, social classes, writing, and public works a **civilization**.
+
+## 2. Sumer: the first cities
+By about **3500 BCE**, the **Sumerians** in southern Mesopotamia had built independent **city-states** such as **Ur**, **Uruk**, and **Lagash**. Each controlled its own farmland and fought its neighbors over water and borders. Rivers here flooded **unpredictably and violently**, so the Sumerians needed large **irrigation** systems and strong leaders to organize labor.
+
+- **Religion:** **polytheism** (many gods who controlled nature). Each city had a patron god honored in a stepped temple-tower called a **ziggurat**. Priests were powerful; early rulers were often priest-kings, later war-kings (*lugal*).
+- **Worldview:** gloomy. The gods were moody, and the afterlife was a dim "land of no return."
+- **Writing:** **cuneiform** ("wedge-shaped"), pressed into clay tablets with a reed stylus, **c. 3200 BCE**. It began as record-keeping for temples and trade.
+- **Literature:** the **Epic of Gilgamesh**, the story of a king of Uruk searching for immortality. It contains a **flood story** strikingly like Noah's.
+- **Technology & science:** the **wheel**, the plow, bronze tools, and a **base-60 number system**. That is why we still have 60-minute hours and 360-degree circles.
+
+## 3. Empires of Mesopotamia
+Rich but disunited city-states were easy prey. Around **2340 BCE**, **Sargon of Akkad** conquered Sumer and built history's **first empire** (one ruler over many peoples and cities).
+
+Later, **Hammurabi** of **Babylon** (ruled c. 1792–1750 BCE) unified Mesopotamia and issued the **Code of Hammurabi**: about 282 laws carved on a stone pillar so everyone could see them. Key features:
+
+- **"An eye for an eye"** (retribution, *lex talionis*).
+- Punishments depended on **social class**: injuring a noble cost more than injuring a commoner or slave.
+- Laws covered trade, wages, marriage, and property. The king claimed the god Shamash gave him the authority to make law.
+
+The big idea to remember: **written law**, publicly displayed, was a step toward rule of law, but it was **not** equality before the law.
+
+## 4. Egypt: gift of the Nile
+Egypt grew along the **Nile**, which flooded **predictably** every year and left rich silt. Deserts on both sides protected Egypt from invasion. The results: **stability**, a unified state, and an **optimistic** religion.
+
+>> Predictable Nile floods + desert barriers | Unified, stable kingdom lasting ~3,000 years | Confident, optimistic culture focused on the afterlife
+
+Around **3100 BCE**, **Menes** (also called **Narmer**) united **Upper Egypt** (the south, upriver) and **Lower Egypt** (the delta in the north). The ruler, the **pharaoh**, was considered a **living god** who maintained **ma'at**, the divine order of truth, justice, and balance.
+
+Egyptian history divides into three "kingdoms" separated by periods of disorder:
+
+| Period | Dates (approx.) | Highlights |
+|---|---|---|
+| **Old Kingdom** | 2700–2200 BCE | "Age of the Pyramids"; Great Pyramid of **Khufu** at **Giza** (c. 2560 BCE) |
+| **Middle Kingdom** | 2050–1650 BCE | Public works, trade; ended when the **Hyksos** invaded and introduced the horse-drawn **chariot** |
+| **New Kingdom** | 1550–1070 BCE | Empire into Syria-Palestine; **Hatshepsut** (female pharaoh, trade expeditions); **Thutmose III**; **Akhenaten**; **Ramses II** |
+
+**Akhenaten** (c. 1350 BCE) tried to make Egyptians worship only one god, the sun disk **Aten**, a radical, short-lived experiment that priests reversed after his death (his successor was the boy-king **Tutankhamun**). **Ramses II** fought the **Hittites** at the **Battle of Kadesh (1274 BCE)**; the two powers later signed one of history's first recorded **peace treaties**.
+
+Egyptian culture to know: **hieroglyphics** (picture-writing on stone and **papyrus**), deciphered in 1822 using the **Rosetta Stone**, which had the same text in Greek and two Egyptian scripts. **Mummification** and the **Book of the Dead** reflected belief in an afterlife judged by **Osiris**, where your heart was weighed against the feather of ma'at. Egyptians also built a 365-day solar calendar and practiced advanced medicine and geometry for surveying flooded fields.
+
+## 5. Small peoples, big legacies
+Around **1200 BCE**, the **Late Bronze Age collapse** hit the region: invasions by the mysterious **Sea Peoples**, drought, and trade breakdown toppled the Hittite Empire and weakened Egypt. Iron-working, pioneered by the **Hittites** of Anatolia (modern Turkey), spread widely afterward. In the power vacuum, smaller peoples flourished.
+
+**Phoenicians** (coastal cities **Tyre** and **Sidon**, modern Lebanon) were seafaring **traders**, famous for purple dye and for founding colonies such as **Carthage** in North Africa. Their great gift: a simple **alphabet** of about 22 consonant symbols (c. 1100 BCE). The **Greeks** adopted it and added vowels, and the **Romans** adapted the Greek version. You are reading its descendant now.
+
+**Lydians** (western Anatolia) were the first to use **coined money** (c. 600s BCE), which made trade far easier.
+
+## 6. The Hebrews: ethical monotheism
+The **Hebrews** (Israelites) left the most important religious legacy of the ancient Near East. Their history is recorded in the **Hebrew Bible**, whose first five books are the **Torah**.
+
+- **Abraham** made a **covenant** (binding agreement) with God: God would protect his descendants, and they would obey God.
+- **Moses** led the **Exodus** from slavery in Egypt and received the **Ten Commandments** on Mount Sinai.
+- Their faith was **monotheism**: one all-powerful God who is not part of nature. It was **ethical monotheism** because God demanded moral behavior and justice, not just ritual. **Prophets** such as **Amos, Isaiah, and Jeremiah** condemned the rich for oppressing the poor.
+
+Political story:
+
+>> Unified kingdom under **Saul**, **David** (capital **Jerusalem**), and **Solomon** (built the **Temple**) | Kingdom splits c. 922 BCE into **Israel** (north) and **Judah** (south) | Israel falls to **Assyria (722 BCE)**; Judah falls to **Babylon (586 BCE)**
+
+In **586 BCE**, the Chaldean (Neo-Babylonian) king **Nebuchadnezzar II** destroyed Jerusalem and the Temple and deported the leaders to Babylon: the **Babylonian Captivity (Exile)**. Far from home, the exiles preserved their identity through scripture and law, which is why Judaism survived when other conquered faiths vanished. The scattering of Jews outside their homeland is called the **Diaspora**.
+
+## 7. The great empires: Assyria and Persia
+**Assyria** (capital **Nineveh**) built an empire through a ruthless, efficient army using **iron weapons**, siege engines, and deliberate **terror**. Assyrians **deported** conquered peoples to break rebellions (as with Israel in 722 BCE). Their king **Ashurbanipal** collected a huge library of cuneiform tablets. Hatred ran deep: in **612 BCE** the **Chaldeans** (Neo-Babylonians) and **Medes** destroyed Nineveh. The Chaldeans' **Nebuchadnezzar II** rebuilt Babylon in splendor (the legendary Hanging Gardens) and advanced astronomy.
+
+**Persia** built the largest empire yet, and it ruled very differently:
+
+- **Cyrus the Great** (founded the empire c. 550 BCE) conquered Babylon in **539 BCE** and became famous for **tolerance**. He let local peoples keep their customs and religions and allowed the Jews to **return to Jerusalem** and rebuild the Temple.
+- **Darius I** (522–486 BCE) organized the empire into provinces called **satrapies**, each run by a governor (**satrap**), watched by royal inspectors known as the "**eyes and ears of the king**." He built the **Royal Road** (about 1,600 miles from Sardis to Susa), standardized coins, weights, and measures, and began the ceremonial capital **Persepolis**.
+- Darius and his son **Xerxes** later invaded Greece (the Persian Wars, Unit 2).
+
+>> Assyria rules by terror | Conquered peoples revolt; Nineveh destroyed 612 BCE | Persia learns the lesson: rules by tolerance and good administration, and lasts over 200 years
+
+**Zoroastrianism**, founded by the prophet **Zoroaster (Zarathustra)**, became Persia's major faith. It taught a cosmic struggle between **Ahura Mazda** (god of good and light) and **Ahriman** (evil and darkness), **free will** to choose sides, and a **final judgment** with heaven and hell. This **dualism** may have influenced later Jewish, Christian, and Islamic ideas about the devil and the afterlife.
+
+## Big picture for the exam
+The exam asks you to **match a people to its contribution**: Sumerians = cuneiform, ziggurats, wheel, base-60; Babylonians = Hammurabi's code; Egyptians = pharaoh-gods, pyramids, hieroglyphs; Hittites = iron, chariots; Phoenicians = alphabet and trade; Lydians = coins; Hebrews = ethical monotheism; Assyrians = military terror; Persians = tolerant administration (satrapies, Royal Road) and Zoroastrian dualism.
+
+=== mustknow
+- **Sumer** (southern Mesopotamia): first city-states, **cuneiform** (c. 3200 BCE), **ziggurats**, the wheel, base-60 math, the **Epic of Gilgamesh** (includes a flood story).
+- **Sargon of Akkad** (c. 2340 BCE) created the **first empire**.
+- **Code of Hammurabi** (Babylon, c. 1754 BCE): written public law, "eye for an eye," punishments varied by **social class**.
+- **Mesopotamia vs. Egypt:** unpredictable floods and open borders gave Mesopotamia warring city-states and a pessimistic religion; the predictable **Nile** and desert barriers gave Egypt unity, stability, and an optimistic afterlife.
+- **Pharaoh** = living god maintaining **ma'at**; Old Kingdom = **pyramids**; **Akhenaten** = worship of **Aten** alone; **Rosetta Stone** unlocked **hieroglyphics**.
+- **Phoenicians** spread the **alphabet** (adopted by the Greeks, who added vowels); **Lydians** invented **coined money**; **Hittites** pioneered **iron**.
+- **Hebrews:** **ethical monotheism**, covenant, Ten Commandments, prophets demanding social justice; Israel fell to **Assyria (722 BCE)**, Judah to **Babylon (586 BCE)**, the **Babylonian Captivity**.
+- **Assyria** ruled by **terror and deportation**; Nineveh fell in **612 BCE**.
+- **Persia:** **Cyrus** = tolerance, freed the Jews (539 BCE); **Darius** = **satrapies**, **Royal Road**, standardized coinage.
+- **Zoroastrianism:** dualism of **Ahura Mazda** vs. **Ahriman**, free will, final judgment.
+
+=== compare
+| | Mesopotamia | Egypt |
+|---|---|---|
+| Rivers | Tigris & Euphrates: unpredictable, violent floods | Nile: predictable yearly flood |
+| Geography | Open plains, easily invaded | Deserts protect it |
+| Politics | Rival city-states, then a string of conquering empires | Unified kingdom under a divine pharaoh |
+| Religion | Pessimistic; gloomy afterlife | Optimistic; rewarding afterlife (Osiris) |
+| Writing | Cuneiform on clay | Hieroglyphics on stone/papyrus |
+| Monuments | Ziggurats (temples) | Pyramids (royal tombs) |
+
+=== timeline
+*-10000 | c. 10,000 BCE | **Neolithic Revolution**: farming begins in the Fertile Crescent
+-3500 | c. 3500 BCE | Sumerian city-states (Ur, Uruk) arise in southern Mesopotamia
+*-3200 | c. 3200 BCE | **Cuneiform** writing in Sumer; hieroglyphics appear in Egypt soon after
+*-3100 | c. 3100 BCE | **Menes (Narmer)** unites Upper and Lower Egypt
+-2560 | c. 2560 BCE | Great Pyramid of Khufu at Giza (Old Kingdom)
+*-2340 | c. 2340 BCE | **Sargon of Akkad** builds the first empire
+*-1754 | c. 1754 BCE | **Code of Hammurabi** in Babylon
+-1650 | c. 1650 BCE | Hyksos invade Egypt, bringing the horse-drawn chariot
+-1550 | c. 1550 BCE | Egypt's New Kingdom: the age of empire
+-1350 | c. 1350 BCE | **Akhenaten** promotes worship of Aten alone
+-1274 | 1274 BCE | Battle of Kadesh: Ramses II vs. the Hittites
+*-1200 | c. 1200 BCE | Late Bronze Age collapse; Sea Peoples; iron spreads
+-1100 | c. 1100 BCE | Phoenician alphabet spreads by trade
+-1000 | c. 1000 BCE | David makes Jerusalem the capital; Solomon builds the Temple
+-922 | c. 922 BCE | Hebrew kingdom splits into Israel (north) and Judah (south)
+*-722 | 722 BCE | **Assyria** conquers Israel and deports its people
+*-612 | 612 BCE | Nineveh destroyed; Assyrian Empire ends
+*-586 | 586 BCE | **Nebuchadnezzar II** destroys the Temple; Babylonian Captivity begins
+*-539 | 539 BCE | **Cyrus the Great** takes Babylon and lets the Jews return
+-522 | 522–486 BCE | **Darius I**: satrapies, Royal Road, standard coinage
+
+=== people
+Sargon of Akkad | Conquered Sumer c. 2340 BCE; first empire
+Hammurabi | Babylonian king; law code, "eye for an eye," class-based penalties
+Menes (Narmer) | United Upper and Lower Egypt c. 3100 BCE
+Akhenaten | Pharaoh who promoted worship of the sun disk Aten alone
+Ramses II | New Kingdom pharaoh; fought the Hittites at Kadesh
+Moses | Led the Exodus; received the Ten Commandments
+Nebuchadnezzar II | Chaldean king; destroyed Jerusalem 586 BCE; rebuilt Babylon
+Cyrus the Great | Founded the Persian Empire; tolerant; freed the Jews (539 BCE)
+Darius I | Organized Persia into satrapies; built the Royal Road
+Zoroaster | Persian prophet; dualism of Ahura Mazda vs. Ahriman
+
+=== cards
+Fertile Crescent :: Arc of farmland from the Nile through the eastern Mediterranean coast to the Tigris–Euphrates valley; birthplace of farming and the first cities.
+Neolithic Revolution :: Shift from hunting-gathering to farming and herding (c. 10,000 BCE); the food surplus made cities and specialization possible.
+Cuneiform :: Sumerian wedge-shaped writing pressed into clay tablets (c. 3200 BCE); began as record-keeping.
+Ziggurat :: Stepped Mesopotamian temple-tower honoring a city's patron god.
+Epic of Gilgamesh :: Mesopotamian poem about a king of Uruk seeking immortality; includes a great-flood story.
+Sargon of Akkad :: Conquered the Sumerian city-states c. 2340 BCE, creating the world's first empire.
+Code of Hammurabi :: Babylonian law code (c. 1754 BCE) displayed in public; "eye for an eye"; punishments varied by social class.
+Ma'at :: Egyptian principle of cosmic order, truth, and justice that the god-king pharaoh was responsible for upholding.
+Rosetta Stone :: Stone with one decree in Greek and two Egyptian scripts; key to deciphering hieroglyphics (1822).
+Akhenaten :: New Kingdom pharaoh (c. 1350 BCE) who tried to replace traditional gods with worship of the sun disk Aten alone.
+Hittites :: Anatolian empire known for early iron-working and chariots; fought Egypt at Kadesh (1274 BCE).
+Phoenicians :: Seafaring traders of Tyre and Sidon; spread a 22-letter consonant alphabet; founded Carthage.
+Ethical monotheism :: Hebrew belief in one God who demands moral behavior and justice, not just ritual.
+Babylonian Captivity (Exile) :: Deportation of Judah's leaders to Babylon after Nebuchadnezzar II destroyed Jerusalem's Temple in 586 BCE.
+Assyrians :: Iron-armed, militaristic empire (capital Nineveh) that ruled by terror and mass deportation; fell in 612 BCE.
+Satrapy :: Province of the Persian Empire run by a governor (satrap) and checked by the king's inspectors, the "eyes and ears of the king."
+Zoroastrianism :: Persian religion of Zoroaster: dualism of Ahura Mazda (good) vs. Ahriman (evil), free will, final judgment.

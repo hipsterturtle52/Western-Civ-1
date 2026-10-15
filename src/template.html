@@ -530,6 +530,7 @@ function logMistake(q, k, drill) {
 /* ---------------- immediate-feedback session (unit quiz, mistake drill) ---------------- */
 function practice({ title, qs, back, drill, onDone }) {
   let i = 0, sel = null; const res = [];
+  if (!qs.length) { view.innerHTML = `<div class="card">No questions available here yet. <a href="${back}">Back</a></div>`; return; }
   function render() {
     const q = qs[i];
     const right = res.filter(r => r.ok).length;
