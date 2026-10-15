@@ -17,7 +17,7 @@ Exploration began in the 1400s and exploded in the 1500s. Motives are summed up 
 | **Prince Henry the Navigator** (Portugal) | 1400s | Sponsored voyages down the West African coast |
 | **Bartolomeu Dias** (Portugal) | **1488** | Rounded the **Cape of Good Hope** (southern tip of Africa) |
 | **Christopher Columbus** (for Spain) | **1492** | Sailed west, reached the **Caribbean**, thinking it was Asia |
-| **Treaty of Tordesillas** | **1494** | Pope-brokered line dividing new lands: Spain west, Portugal east (so Portugal got **Brazil**) |
+| **Treaty of Tordesillas** | **1494** | Spain and Portugal moved the pope's 1493 dividing line west: Spain got lands to the west, Portugal to the east (so Portugal got **Brazil**) |
 | **Vasco da Gama** (Portugal) | **1498** | Reached **India** by sea around Africa |
 | **Ferdinand Magellan** (for Spain) | **1519–1522** | First **circumnavigation**; Magellan was killed in the Philippines, and his crew finished the trip |
 
@@ -106,7 +106,7 @@ Henry IV was assassinated in 1610. Under **Louis XIII**, **Cardinal Richelieu** 
 - **Andreas Vesalius**, *On the Fabric of the Human Body* (also **1543**): accurate **anatomy** from dissection, correcting Galen.
 - **Tycho Brahe:** extremely precise naked-eye observations of the planets.
 - **Johannes Kepler** (using Tycho's data): planets move in **elliptical orbits**, not perfect circles.
-- **Galileo Galilei:** first to turn a **telescope** on the heavens (1609–1610): **moons of Jupiter**, mountains on the Moon, phases of Venus; laws of **motion** and falling bodies. His *Dialogue Concerning the Two Chief World Systems* (1632) defended Copernicus; the **Inquisition** tried him in **1633** and forced him to recant.
+- **Galileo Galilei:** used the new **telescope** to study the heavens (1609–1610), and his published discoveries made it famous: **moons of Jupiter**, mountains on the Moon, phases of Venus; laws of **motion** and falling bodies. His *Dialogue Concerning the Two Chief World Systems* (1632) defended Copernicus; the **Inquisition** tried him in **1633** and forced him to recant.
 - **William Harvey** (1628): the **circulation of the blood**, pumped by the heart.
 - **Francis Bacon**: **empiricism** and **inductive** reasoning, building general conclusions from many careful observations and experiments (the scientific method).
 - **René Descartes**: **deductive** reasoning from first principles and mathematics; universal doubt led to "**I think, therefore I am**" (*Discourse on Method*, 1637); **mind–body dualism**; analytic geometry.
