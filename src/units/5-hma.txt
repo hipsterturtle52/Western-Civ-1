@@ -1,0 +1,203 @@
+=== meta
+id: hma
+intro: From about 1000 to 1450, Europe revived: a reformed and powerful papacy, the Crusades, booming towns, stronger monarchies, universities, and Gothic cathedrals. Then the 14th century brought famine, plague, war, and a divided Church. Second half of Medieval History (23–27%).
+
+=== lesson
+## 1. The medieval revival (c. 1000–1300)
+After the Viking and Magyar raids ended, Europe grew. Warmer weather, the **heavy plow**, the **horse collar**, and the **three-field system** produced more food, so **population roughly doubled** between 1000 and 1300. More people meant more land cleared, more trade, and the growth of towns.
+
+>> Agricultural improvements and the end of invasions | Population growth, surplus to sell, revived long-distance trade | **Towns** and a **money economy** grow, and with them a new middle class that doesn't fit the feudal order
+
+## 2. Towns, trade, and guilds
+- **Trade routes:** Italian cities (**Venice**, **Genoa**, Pisa) dominated Mediterranean trade with Byzantium and the Islamic world (spices, silk). In the north, the **Hanseatic League** (Lübeck, Hamburg, and other German towns) controlled Baltic and North Sea trade (timber, fish, furs, grain). The two zones met at the great **fairs of Champagne** in France.
+- **Towns** bought or won **charters** from lords and kings granting self-government and freedom from feudal duties. A serf who lived in a town for a year and a day became free: "**town air makes you free**." Townspeople were called **burghers** or the **bourgeoisie**.
+- **Guilds** organized economic life. **Merchant guilds** controlled a town's trade; **craft guilds** (bakers, weavers, smiths) set prices, wages, and quality standards and limited competition. Training went **apprentice → journeyman → master** (who had to produce a "masterpiece").
+- **Money and banking** returned: bills of exchange and credit, pioneered by Italian merchants. The Church's ban on **usury** (charging interest) pushed many Jews, excluded from guilds and landholding, into moneylending, which fed resentment and persecution.
+
+## 3. The reformed Church at its height
+Around 1000, the Church had problems: nobles controlled church offices, some priests married, and offices were bought and sold (**simony**).
+
+- **Cluny** (founded **910** in France): a Benedictine monastery placed directly under the pope, free from local lords. Its reform movement spread to hundreds of houses.
+- **Pope Gregory VII** (1073–1085) banned simony and clerical marriage and insisted that **only the Church could appoint bishops**.
+
+>> Who appoints bishops, the king or the pope? (bishops were also great landholders and royal officials) | **Investiture Controversy**: Gregory VII excommunicates Emperor **Henry IV**, who stands barefoot in the snow at **Canossa (1077)** to beg forgiveness | **Concordat of Worms (1122)**: the Church grants spiritual authority (ring and staff); the emperor may grant the lands. The papacy gains prestige, and German emperors lose ground
+
+**Pope Innocent III** (1198–1216) marks the **peak of papal power**. He forced King **John** of England to submit by placing England under **interdict** (no church services or sacraments), launched the **Fourth Crusade** and a crusade against heretics in southern France, and held the **Fourth Lateran Council (1215)**, which defined **transubstantiation** (the bread and wine become the body and blood of Christ) and required annual confession.
+
+**Sacraments:** the seven sacraments (baptism, confirmation, Eucharist, penance, marriage, holy orders, last rites) were channels of grace that only the clergy could administer. **Excommunication** (cutting a person off from them) and **interdict** (shutting down church services in an entire region) were the Church's great weapons.
+
+**New religious orders:**
+
+- **Cistercians** (strict, rural monks; **Bernard of Clairvaux** preached the Second Crusade).
+- **Mendicant ("begging") friars** worked **in towns** among the people instead of in cloisters: **Franciscans** (**Francis of Assisi**, radical poverty and service to the poor) and **Dominicans** (**Dominic**, educated preachers who fought heresy and later ran the **Inquisition**).
+
+**Heresy:** the **Cathars (Albigensians)** of southern France believed in two gods (good/spiritual vs. evil/material) and rejected the Church. Innocent III's **Albigensian Crusade** (1209) crushed them. The **Waldensians** preached apostolic poverty.
+
+## 4. The Crusades (1095–1291)
+>> **Seljuk Turks** defeat the Byzantines at **Manzikert (1071)** and threaten Constantinople; Byzantine Emperor Alexius asks the West for help | **Pope Urban II** at the **Council of Clermont (1095)** calls a holy war to free Jerusalem, promising forgiveness of sins | Thousands of knights and commoners march east
+
+Motives mixed **religious zeal** (pilgrimage, remission of sins), **papal ambition** (leading Christendom, reuniting with the East), **land and wealth** for younger sons (who inherited nothing under **primogeniture**), and **trade** for Italian cities.
+
+| Crusade | Result |
+|---|---|
+| **First (1096–1099)** | The only clear success: **Jerusalem captured (1099)** with a massacre; four **crusader states** founded. Also massacres of Jews in the Rhineland on the way |
+| **Second (1147–1149)** | Preached by Bernard of Clairvaux after Edessa fell; failed |
+| **Third (1189–1192)** | After **Saladin** retook **Jerusalem (1187)**; the "Crusade of Kings": **Richard I** "the Lionheart" of England, **Philip II** of France, and **Frederick Barbarossa** (drowned on the way). Ended with a **truce** allowing Christian pilgrims access to Jerusalem |
+| **Fourth (1202–1204)** | Diverted by Venice; crusaders **sacked Constantinople (1204)**, a fellow Christian city, deepening the East-West split and weakening Byzantium |
+
+The last crusader stronghold, **Acre**, fell in **1291**. In Spain, the **Reconquista** (Christian reconquest of Muslim Iberia) continued until **1492**.
+
+**Consequences:** more **trade** with the East (enriching **Venice and Genoa**), **contact with Islamic learning**, a **weaker Byzantium**, **anti-Jewish violence** in Europe, more power to monarchs (who taxed for crusades), and lasting Christian-Muslim bitterness.
+
+## 5. Feudal monarchies: England, France, the Holy Roman Empire
+### England: strong kings, limited by law
+- **1066:** **William the Conqueror**, Duke of Normandy, wins the **Battle of Hastings**, takes England, and makes all landholders his vassals. The **Domesday Book (1086)** surveyed every estate for taxation.
+- **Henry II** (1154–1189) expanded royal justice: traveling **circuit judges**, **juries**, and **common law** (law common to the whole kingdom, based on precedent). His clash with Archbishop **Thomas Becket** ended with Becket's murder in Canterbury Cathedral (1170).
+- **King John** lost Normandy to France (1204), quarreled with Innocent III, and raised heavy taxes. His barons forced him to sign the **Magna Carta (1215)**: the king is **subject to the law**; no special taxes without the consent of the great council; no free man imprisoned or punished except by **lawful judgment of his peers** or the law of the land.
+- **Parliament** grew from the king's council. **Edward I**'s **Model Parliament (1295)** included nobles, clergy, and representatives of towns and shires. Parliament later split into the **House of Lords** and **House of Commons** and gained **"power of the purse"** (approval of taxes).
+
+### France: kings slowly gather power
+- **Hugh Capet** (987) founded the **Capetian** dynasty, ruling only a small area around **Paris** but producing male heirs for centuries.
+- **Philip II Augustus** (1180–1223) took **Normandy** from King John and governed through salaried royal officials (**bailiffs**).
+- **Louis IX (Saint Louis)** (1226–1270) was famed for justice and piety and led two crusades.
+- **Philip IV "the Fair"** (1285–1314) called the first **Estates-General (1302)** (clergy, nobles, townspeople) to back him against the pope, taxed the clergy, and expelled the Jews and destroyed the Knights Templar to seize their wealth.
+
+### Holy Roman Empire: the failure to unify
+German emperors (from **Otto I**, crowned 962) spent their energy fighting popes and trying to control **Italy**. **Frederick I Barbarossa** was defeated by the **Lombard League** of northern Italian cities at **Legnano (1176)**. The result: Germany and Italy stayed **fragmented** into hundreds of princely states and city-states. The **Golden Bull (1356)** made the emperor **elected by seven princes (electors)**, confirming weak central power.
+
+## 6. Medieval thought and culture
+**Universities** grew out of cathedral schools as guilds of teachers and students: **Bologna** (law), **Paris** (theology), **Oxford**, and Cambridge. Teaching was in Latin, based on lecture and debate. The core curriculum was the seven liberal arts.
+
+**Scholasticism** was the method of using **reason and logic (especially Aristotle's) to explain and defend Christian faith**. Aristotle's works returned to the West via Arabic translations from Spain and Sicily.
+
+- **Anselm of Canterbury:** "faith seeking understanding"; a logical proof of God's existence.
+- **Peter Abelard:** ***Sic et Non*** ("Yes and No"), which set contradictory authorities side by side to train reasoning.
+- **Thomas Aquinas** (1225–1274), a Dominican: ***Summa Theologica***. He argued that **faith and reason do not conflict**, because both come from God, and harmonized **Aristotle** with Christian doctrine (natural law, the "five ways" of proving God).
+- **William of Ockham:** "Ockham's razor" (prefer the simplest explanation); argued faith and reason were separate, undermining scholastic synthesis.
+- **Roger Bacon** stressed observation and experiment.
+
+**Architecture:**
+
+| Romanesque (c. 1000–1150) | Gothic (from c. 1140) |
+|---|---|
+| **Rounded arches**, barrel vaults | **Pointed arches**, **ribbed vaults** |
+| **Thick walls**, small windows, dark interiors | **Flying buttresses** carry the weight, allowing tall, thin walls |
+| Heavy, fortress-like | Soaring height; huge **stained-glass** windows to fill the church with light |
+| | First: **Abbey of Saint-Denis** (Abbot **Suger**, 1140s); Chartres, Notre-Dame de Paris |
+
+**Literature** shifted from Latin toward **vernacular** (everyday) languages: troubadour songs of **courtly love** and the code of **chivalry**; epic *chansons de geste* such as the *Song of Roland*; **Dante**'s ***Divine Comedy*** (Italian, early 1300s: a journey through Hell, Purgatory, and Paradise); **Chaucer**'s ***Canterbury Tales*** (English, late 1300s: pilgrims of every class telling stories); and **Christine de Pizan**'s defense of women, *The Book of the City of Ladies* (1405).
+
+## 7. The calamitous 14th century
+- **Great Famine (1315–1317):** cold, rainy weather destroyed harvests; millions starved.
+- **Black Death (1347–1351):** **bubonic plague**, carried by fleas on rats and spread along trade routes (arriving via Genoese ships from the Black Sea port of **Caffa**), killed about **one-third** of Europe's population. Reactions included **flagellants** whipping themselves in penance and **massacres of Jews**, who were falsely blamed for poisoning wells.
+
+>> Black Death kills a third of the workforce | **Labor shortage**: surviving peasants and workers demand **higher wages** and freedom; lords try to freeze wages (England's Statute of Labourers, 1351) | **Peasant revolts** (French **Jacquerie** 1358; **English Peasants' Revolt 1381**, led by Wat Tyler, sparked by a poll tax), and **serfdom declines in Western Europe**
+
+- **Hundred Years' War (1337–1453):** England's **Edward III** claimed the French throne. The English won early with the **longbow** at **Crécy (1346)**, **Poitiers (1356)**, and **Agincourt (1415, Henry V)**. Then **Joan of Arc**, a peasant girl inspired by visions, lifted the **siege of Orléans (1429)** and had Charles VII crowned; she was captured and **burned as a heretic (1431)**. France expelled the English (except Calais) by 1453.
+- **Consequences:** a sense of **national identity** in both countries; the **decline of knights and chivalry** (longbows, then **gunpowder and cannon**, made armored cavalry obsolete); a **stronger French monarchy** (permanent taxes, a standing army); and in England, civil war: the **Wars of the Roses (1455–1485)**.
+
+## 8. The late medieval Church in crisis
+>> **Pope Boniface VIII** clashes with **Philip IV** of France over taxing clergy; his bull ***Unam Sanctam* (1302)** claims every human must submit to the pope | Philip's agents seize Boniface, who dies soon after; a French pope moves the papacy to **Avignon** (1309–1377): the "**Babylonian Captivity**" of the Church | Papal prestige falls; many see the popes as French puppets
+
+- **Great Western Schism (1378–1417):** after the return to Rome, rival popes were elected in **Rome and Avignon** (later a third at Pisa), each excommunicating the other's followers.
+- The **Council of Constance (1414–1418)** ended the schism by electing one pope. The **Conciliar Movement** argued that **church councils had authority over popes**, but popes soon reasserted control.
+- Critics foreshadowed the Reformation: **John Wycliffe** (England, d. 1384) said the **Bible**, not the pope, was the supreme authority and inspired the first **English translation of the Bible**; his followers were the **Lollards**. **Jan Hus** (Bohemia), influenced by Wycliffe, was **burned at Constance (1415)** despite a promise of safe conduct; his followers, the **Hussites**, fought off crusades.
+
+Meanwhile, in the east, the **Ottoman Turks** captured **Constantinople in 1453**, ending the Byzantine Empire.
+
+## Big picture for the exam
+Know the **Investiture Controversy** (Gregory VII, Henry IV, Canossa, Worms), **Innocent III**, the **friars**, the **Crusades' causes and results**, **towns and guilds**, **England's limits on kings** (Magna Carta → Parliament) vs. **France's centralizing kings** vs. **Germany's fragmentation**, **scholasticism and Aquinas**, **Romanesque vs. Gothic**, the **Black Death's effects**, the **Hundred Years' War**, and the **papacy's decline** (Avignon, Schism, Constance, Wycliffe, Hus).
+
+=== mustknow
+- Agricultural improvements → population growth → **towns, guilds, charters**, money economy; **Hanseatic League** (north) and **Venice/Genoa** (Mediterranean).
+- **Cluny (910)** reform → **Gregory VII** vs. **Henry IV**: **Investiture Controversy**, **Canossa (1077)**, **Concordat of Worms (1122)**.
+- **Innocent III** = peak of papal power (interdict on England, **Fourth Lateran Council 1215**: transubstantiation).
+- **Mendicant friars:** Franciscans (poverty) and Dominicans (preaching against heresy); Albigensian Crusade against the **Cathars**.
+- **Crusades:** Urban II at **Clermont (1095)**; First Crusade took **Jerusalem (1099)**; **Saladin** retook it (1187); **Fourth Crusade sacked Constantinople (1204)**; results: more trade, weaker Byzantium, anti-Jewish violence.
+- England: **Hastings (1066)**, Domesday Book; **Henry II** common law and juries; **Magna Carta (1215)** puts the king under law; **Model Parliament (1295)**.
+- France: Capetians centralize (**Philip II**, **Philip IV** and the first **Estates-General 1302**); HRE stays **fragmented** (Golden Bull 1356, seven electors).
+- **Scholasticism:** reason + faith; **Aquinas' Summa Theologica** synthesizes Aristotle and Christianity; universities at Bologna, Paris, Oxford.
+- **Romanesque** (round arches, thick walls) vs. **Gothic** (pointed arches, flying buttresses, stained glass). Vernacular works: **Dante**, **Chaucer**.
+- 14th-century crises: **Black Death (1347–51)**, killing about 1/3 → labor shortage, higher wages, **peasant revolts** (1381), decline of serfdom; **Hundred Years' War (1337–1453)** (longbow, **Joan of Arc**); **Avignon papacy**, **Great Schism (1378–1417)**, **Council of Constance**; **Wycliffe** and **Hus** as Reformation forerunners.
+
+=== compare
+| | England | France | Holy Roman Empire |
+|---|---|---|---|
+| Founding moment | Norman Conquest, 1066 | Hugh Capet, 987 | Otto I crowned, 962 |
+| Key kings | William I, Henry II, John, Edward I | Philip II, Louis IX, Philip IV | Henry IV, Frederick Barbarossa |
+| Limits on king | Magna Carta (1215), Parliament | Estates-General (rarely binding) | Powerful princes, electors, popes |
+| Outcome by 1450 | Centralized law, but king shares power with Parliament | Strong, centralizing monarchy | Fragmented into many states |
+
+=== timeline
+*910 | 910 | **Cluny** founded: monastic reform begins
+*1066 | 1066 | **Battle of Hastings**: Norman conquest of England
+1071 | 1071 | Seljuk Turks defeat Byzantium at Manzikert
+*1077 | 1077 | Henry IV submits to Gregory VII at **Canossa**
+1086 | 1086 | Domesday Book
+*1095 | 1095 | **Urban II** calls the First Crusade at Clermont
+*1099 | 1099 | Crusaders capture **Jerusalem**
+*1122 | 1122 | **Concordat of Worms** ends Investiture Controversy
+1140 | c. 1140s | Abbot Suger's Saint-Denis: first Gothic church
+1170 | 1170 | Thomas Becket murdered
+1176 | 1176 | Lombard League defeats Barbarossa at Legnano
+*1187 | 1187 | **Saladin** retakes Jerusalem; Third Crusade follows
+*1204 | 1204 | **Fourth Crusade sacks Constantinople**; France takes Normandy
+1209 | 1209 | Albigensian Crusade; Francis of Assisi's order approved
+*1215 | 1215 | **Magna Carta**; Fourth Lateran Council
+1265 | c. 1265–1274 | Aquinas writes the *Summa Theologica*
+1295 | 1295 | Edward I's Model Parliament
+*1302 | 1302 | *Unam Sanctam*; first Estates-General in France
+*1309 | 1309–1377 | **Avignon papacy** ("Babylonian Captivity")
+1315 | 1315–1317 | Great Famine
+*1337 | 1337–1453 | **Hundred Years' War**
+1346 | 1346 | Crécy: English longbows defeat French knights
+*1347 | 1347–1351 | **Black Death** kills about one-third of Europe
+1356 | 1356 | Golden Bull: seven electors choose the emperor
+1358 | 1358 | Jacquerie peasant revolt in France
+*1378 | 1378–1417 | **Great Western Schism** (rival popes)
+1381 | 1381 | English Peasants' Revolt
+1414 | 1414–1418 | Council of Constance; Jan Hus burned (1415)
+1429 | 1429 | Joan of Arc lifts the siege of Orléans
+*1453 | 1453 | Ottomans take **Constantinople**; Hundred Years' War ends
+
+=== people
+Gregory VII | Reform pope; Investiture Controversy; Canossa (1077)
+Henry IV | German emperor humbled at Canossa
+Innocent III | Height of papal power; Fourth Lateran Council (1215)
+Urban II | Launched the First Crusade (1095)
+Saladin | Muslim sultan who retook Jerusalem (1187)
+Francis of Assisi | Founder of the Franciscans; radical poverty
+William the Conqueror | Won at Hastings (1066); Domesday Book
+Henry II | English common law, juries; clash with Becket
+King John | Lost Normandy; forced to sign Magna Carta (1215)
+Philip IV | French king; Estates-General; clash with Boniface VIII
+Thomas Aquinas | *Summa Theologica*; faith and reason united
+Dante / Chaucer | *Divine Comedy* (Italian) / *Canterbury Tales* (English)
+Joan of Arc | Lifted siege of Orléans (1429); burned 1431
+John Wycliffe / Jan Hus | Pre-Reformation critics of the papacy
+
+=== cards
+Charter (town) :: Document from a lord or king granting a town self-government and freedoms.
+Guilds :: Associations of merchants or craftsmen regulating prices, quality, and training (apprentice → journeyman → master).
+Hanseatic League :: Alliance of north German trading towns dominating Baltic and North Sea commerce.
+Simony :: The buying and selling of church offices.
+Investiture Controversy :: Conflict over whether popes or kings appoint bishops; Canossa (1077); Concordat of Worms (1122).
+Concordat of Worms :: 1122 compromise: the Church invests bishops with spiritual authority; the emperor grants their lands.
+Innocent III :: Pope (1198–1216) at the height of papal power; interdict on England; Fourth Lateran Council.
+Interdict :: Papal penalty suspending church services and sacraments in an entire region.
+Mendicant orders :: Begging friars who worked in towns: Franciscans (poverty) and Dominicans (preaching, fighting heresy).
+First Crusade :: Called by Urban II at Clermont (1095); captured Jerusalem (1099); founded crusader states.
+Fourth Crusade :: Diverted by Venice; sacked Christian Constantinople (1204).
+Saladin :: Muslim sultan who recaptured Jerusalem in 1187, prompting the Third Crusade.
+Domesday Book :: William the Conqueror's 1086 survey of English landholding for taxation.
+Common law :: English law based on royal court decisions and precedent, common to the whole kingdom (Henry II).
+Magna Carta :: 1215 charter barons forced on King John: king subject to law; no taxes without council's consent; lawful judgment.
+Model Parliament :: Edward I's 1295 Parliament including nobles, clergy, and commoners from towns and shires.
+Estates-General :: French assembly of clergy, nobles, and townspeople, first called by Philip IV in 1302.
+Scholasticism :: Medieval method using reason and Aristotle's logic to explain and defend Christian faith.
+Summa Theologica :: Thomas Aquinas' synthesis of Aristotle and Christian theology; faith and reason agree.
+Gothic architecture :: Pointed arches, ribbed vaults, flying buttresses, stained glass; began at Saint-Denis (1140s).
+Black Death :: Bubonic plague, 1347–1351; killed about a third of Europe; led to labor shortages and higher wages.
+Hundred Years' War :: England vs. France, 1337–1453; longbow victories; Joan of Arc; France wins.
+Avignon papacy :: Popes resided in Avignon under French influence, 1309–1377 ("Babylonian Captivity" of the Church).
+Great Western Schism :: 1378–1417: two, then three, rival popes; ended by the Council of Constance.
