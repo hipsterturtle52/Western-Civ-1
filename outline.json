@@ -1,0 +1,70 @@
+{
+  "exam": "CLEP Western Civilization I: Ancient Near East to 1648",
+  "source_urls": [
+    "https://clep.collegeboard.org/history-and-social-sciences/western-civilization-1",
+    "https://secure-media.collegeboard.org/digitalServices/pdf/clep/western_civilization_I_fact_sheet.pdf"
+  ],
+  "verification_note": "The College Board hosts were blocked by this build environment's network policy (connect_rejected), so the pages could not be loaded directly. Question count, time, and all six percentage ranges were confirmed through web-search results that quote the official College Board page and fact sheet (retrieved 2026-10-15). Items marked verified=false come from memory or third-party prep sites and should be checked against the official page.",
+  "retrieved": "2026-10-15",
+  "format": {
+    "questions": { "value": "approximately 120", "verified": true, "note": "Some are unscored pretest questions." },
+    "time_minutes": { "value": 90, "verified": true },
+    "question_type": { "value": "multiple choice, 5 options", "verified": false },
+    "scaled_passing_score": { "value": "50 on a 20-80 scale (ACE recommendation)", "verified": false },
+    "credit_recommendation": { "value": "3 semester hours (ACE)", "verified": false }
+  },
+  "topics": [
+    { "id": "ne", "name": "Ancient Near East", "weight": "8%-10%", "min": 8, "max": 10, "verified": true,
+      "subtopics": [
+        { "name": "Political evolution", "verified": true },
+        { "name": "Religion, culture, and technical developments in and near the Fertile Crescent", "verified": true } ] },
+    { "id": "greece", "name": "Ancient Greece and Hellenistic Civilization", "weight": "15%-17%", "min": 15, "max": 17, "verified": true,
+      "subtopics": [
+        { "name": "Political evolution to Periclean Athens", "verified": false },
+        { "name": "Periclean Athens to the Peloponnesian Wars", "verified": true },
+        { "name": "Culture, religion, and thought of ancient Greece", "verified": false },
+        { "name": "Hellenistic political structure", "verified": true },
+        { "name": "Hellenistic culture, religion, and thought", "verified": true } ] },
+    { "id": "rome", "name": "Ancient Rome", "weight": "15%-17%", "min": 15, "max": 17, "verified": true,
+      "subtopics": [
+        { "name": "Political evolution of the Republic and of the Empire (political, economic, and social)", "verified": true },
+        { "name": "Roman thought and culture", "verified": true },
+        { "name": "Early Christianity", "verified": true },
+        { "name": "The Germanic invasions", "verified": true } ] },
+    { "id": "medieval", "name": "Medieval History", "weight": "23%-27%", "min": 23, "max": 27, "verified": true,
+      "subtopics": [
+        { "name": "Byzantium and Islam", "verified": true },
+        { "name": "Early medieval politics and culture through Charlemagne", "verified": true },
+        { "name": "Feudal and manorial institutions", "verified": false },
+        { "name": "The medieval Church", "verified": false },
+        { "name": "Medieval thought and culture", "verified": false },
+        { "name": "Rise of the towns and changing economic forms", "verified": false },
+        { "name": "Feudal monarchies", "verified": false },
+        { "name": "The late medieval Church", "verified": false } ] },
+    { "id": "rr", "name": "Renaissance and Reformation", "weight": "13%-17%", "min": 13, "max": 17, "verified": true,
+      "subtopics": [
+        { "name": "The Renaissance in Italy", "verified": false },
+        { "name": "The Renaissance outside Italy", "verified": false },
+        { "name": "The New Monarchies", "verified": false },
+        { "name": "Protestantism and Catholicism reformed and reorganized", "verified": false } ] },
+    { "id": "early_modern", "name": "Early Modern Europe, 1560-1648", "weight": "10%-15%", "min": 10, "max": 15, "verified": true,
+      "subtopics": [
+        { "name": "The opening of the Atlantic", "verified": true },
+        { "name": "The Commercial Revolution", "verified": true },
+        { "name": "Dynastic and religious conflicts", "verified": true },
+        { "name": "Thought and culture", "verified": true } ] }
+  ],
+  "unit_plan": {
+    "basis": "Midpoint of each official range, normalized to 100% (midpoints sum to 93.5%). Medieval History (25% midpoint) is split into two units of equal weight.",
+    "units": [
+      { "id": "ne",   "topic": "ne",           "title": "Ancient Near East",                          "share": 9.6,  "quiz": 10, "exam_each": 11, "diag": 3, "cards": 17, "lesson_min": 10, "study_hours": 1.5 },
+      { "id": "gr",   "topic": "greece",       "title": "Ancient Greece & the Hellenistic World",     "share": 17.1, "quiz": 15, "exam_each": 21, "diag": 5, "cards": 31, "lesson_min": 18, "study_hours": 2.5 },
+      { "id": "ro",   "topic": "rome",         "title": "Ancient Rome & Early Christianity",          "share": 17.1, "quiz": 15, "exam_each": 21, "diag": 5, "cards": 31, "lesson_min": 18, "study_hours": 2.5 },
+      { "id": "ema",  "topic": "medieval",     "title": "Early Middle Ages: Byzantium, Islam, Franks, Feudalism", "share": 13.4, "quiz": 12, "exam_each": 16, "diag": 4, "cards": 24, "lesson_min": 14, "study_hours": 2.0 },
+      { "id": "hma",  "topic": "medieval",     "title": "High & Late Middle Ages",                    "share": 13.4, "quiz": 12, "exam_each": 16, "diag": 4, "cards": 24, "lesson_min": 14, "study_hours": 2.0 },
+      { "id": "rr",   "topic": "rr",           "title": "Renaissance & Reformation",                  "share": 16.0, "quiz": 14, "exam_each": 19, "diag": 5, "cards": 29, "lesson_min": 17, "study_hours": 2.5 },
+      { "id": "em",   "topic": "early_modern", "title": "Early Modern Europe, 1560-1648",             "share": 13.4, "quiz": 12, "exam_each": 16, "diag": 4, "cards": 24, "lesson_min": 14, "study_hours": 2.0 }
+    ],
+    "totals": { "questions": 360, "diagnostic": 30, "unit_quizzes": 90, "practice_exam_each": 120, "flashcards": 180 }
+  }
+}
