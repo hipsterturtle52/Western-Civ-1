@@ -1,0 +1,231 @@
+=== meta
+id: em
+intro: Europe goes global and goes to war. Atlantic exploration and empire, a commercial revolution, religious and dynastic wars ending with the Peace of Westphalia (1648), and the first steps of the Scientific Revolution. Worth 10–15%.
+
+=== lesson
+## 1. Opening the Atlantic: why and how
+Exploration began in the 1400s and exploded in the 1500s. Motives are summed up as "**God, gold, and glory**":
+
+- **Gold:** Europeans craved Asian **spices** and luxury goods, but the **Ottoman Turks** and **Venetian** middlemen controlled the eastern routes and took big profits. A **sea route to Asia** would cut them out.
+- **God:** spreading **Christianity** (and the crusading spirit of the Reconquista).
+- **Glory:** fame and power for explorers and monarchs; **New Monarchies** had the money and ambition to sponsor voyages.
+
+**Technology** made it possible: the **caravel** (a small, nimble ship with triangular **lateen** sails that could sail against the wind), the **magnetic compass**, the **astrolabe** (for latitude), better maps, and shipboard **cannon**.
+
+| Who | When | What |
+|---|---|---|
+| **Prince Henry the Navigator** (Portugal) | 1400s | Sponsored voyages down the West African coast |
+| **Bartolomeu Dias** (Portugal) | **1488** | Rounded the **Cape of Good Hope** (southern tip of Africa) |
+| **Christopher Columbus** (for Spain) | **1492** | Sailed west, reached the **Caribbean**, thinking it was Asia |
+| **Treaty of Tordesillas** | **1494** | Pope-brokered line dividing new lands: Spain west, Portugal east (so Portugal got **Brazil**) |
+| **Vasco da Gama** (Portugal) | **1498** | Reached **India** by sea around Africa |
+| **Ferdinand Magellan** (for Spain) | **1519–1522** | First **circumnavigation**; Magellan was killed in the Philippines, and his crew finished the trip |
+
+**Portugal** built a **trading-post empire** (forts at Goa in India and Malacca, controlling spice trade by force), not large colonies.
+
+**Spain** built a land empire in the Americas through the **conquistadors**: **Hernán Cortés** conquered the **Aztecs** (capital Tenochtitlan, ruler Montezuma) in **1519–1521**, and **Francisco Pizarro** conquered the **Incas** (ruler Atahualpa) in **1532–1533**. Their advantages: **steel weapons, guns, horses**, **native allies** who hated Aztec rule, and above all **European diseases**.
+
+>> Europeans arrive carrying **smallpox**, measles, and influenza, to which Native Americans had no immunity | Native populations collapse, by as much as **90%** in many areas | Spaniards force survivors to work (the **encomienda** labor system and silver mines like **Potosí**) and then import **enslaved Africans** to replace them
+
+The Dominican friar **Bartolomé de Las Casas** denounced Spanish cruelty to Native Americans.
+
+**Columbian Exchange:** the transfer of plants, animals, people, and diseases between the hemispheres. To Europe: **potatoes, maize (corn), tomatoes, tobacco, cacao**. To the Americas: **wheat, sugar, horses, cattle, pigs**, and **diseases**. Potatoes and maize later fueled European population growth.
+
+**Atlantic slave trade:** **sugar plantations** in Brazil and the Caribbean demanded huge labor forces. Millions of Africans were shipped across the Atlantic in the brutal **Middle Passage**, part of a **triangular trade** (European goods to Africa → enslaved people to the Americas → sugar, tobacco, and other goods to Europe).
+
+**Latecomers** in the 1600s: the **Dutch** (East Indies spice trade; New Amsterdam, 1620s), the **English** (Jamestown 1607; Plymouth 1620), and the **French** (**Quebec 1608**, fur trade).
+
+## 2. The Commercial Revolution
+>> Tons of **American silver** (especially from Potosí) pour into Spain and then all of Europe | Too much money chasing too few goods: the **Price Revolution**, a long **inflation** in which prices roughly quadrupled over the 1500s | Merchants and borrowers gain; landlords on fixed rents and wage-earners lose; **Spain** itself suffers because its silver flows out to pay for imports and wars
+
+New business forms and ideas:
+
+- **Joint-stock companies:** many investors pool money by buying **shares**, sharing profits and **spreading risk** for expensive, dangerous voyages. Examples: the **English East India Company (1600)** and the **Dutch East India Company (VOC, 1602)**, which had government-granted monopolies and their own armies.
+- **Banking and finance:** the **Fugger** family of Augsburg lent to the Habsburgs (financing Charles V's election); **Amsterdam** became Europe's financial capital, with its **stock exchange** and the **Bank of Amsterdam (1609)**.
+- **Putting-out (domestic) system:** merchants delivered raw materials such as wool to **rural households** to spin and weave at home, then collected and sold the finished cloth, **bypassing town guild restrictions**.
+- **Mercantilism:** governments believed national wealth = **gold and silver (bullion)**. A nation should **export more than it imports** (favorable balance of trade) and use **colonies** as sources of raw materials and markets for finished goods, with tariffs and state regulation.
+- **Capitalism:** private investment of capital for profit spread steadily.
+- In England, **enclosure** (fencing common land for sheep) pushed peasants off the land. In **Eastern Europe**, by contrast, lords tightened **serfdom** to grow grain for export west (the "second serfdom").
+
+## 3. Spain under Philip II and the Dutch Revolt
+**Philip II** (1556–1598), son of Charles V, ruled Spain, the Americas, the Netherlands, and parts of Italy, and saw himself as the **champion of Catholicism**. He ruled from his palace-monastery, the **Escorial**.
+
+- **Lepanto (1571):** a Holy League fleet led by Spain **defeated the Ottoman navy**, ending Ottoman naval dominance in the western Mediterranean.
+- **Dutch Revolt (from 1566):** the wealthy, increasingly **Calvinist** Netherlands resented **Spanish taxes**, centralization, and the **Inquisition**. Philip sent the **Duke of Alba**, whose "Council of Troubles" ("**Council of Blood**") executed thousands. **William of Orange ("the Silent")** led the rebels. The seven northern provinces formed the **Union of Utrecht (1579)** and declared independence (1581) as the **United Provinces** (Dutch Republic). The southern provinces (modern Belgium) stayed Spanish and Catholic. Spain recognized Dutch independence only in **1648**.
+- **Spanish Armada (1588):** Philip sent a huge fleet to invade Protestant **England** (Elizabeth I had aided the Dutch and executed the Catholic **Mary, Queen of Scots**, in 1587). Faster English ships, **fire ships**, and storms (the "Protestant wind") destroyed it.
+
+>> Costly wars on many fronts + inflation + dependence on American silver | Spain declares **bankruptcy** repeatedly and loses the Armada | By the 1600s Spain declines, while the **Dutch Republic** and **England** rise as commercial and naval powers
+
+**The Dutch Golden Age (1600s):** a Calvinist but relatively **tolerant** republic of merchants, the leading **shipping, banking, and trading** nation in Europe, and home of painters such as **Rembrandt** and **Vermeer**.
+
+## 4. France: Wars of Religion to Richelieu
+**French Wars of Religion (1562–1598):** Catholics (led by the **Guise** family) vs. **Huguenots** (French Calvinists, many of them nobles, led by the **Bourbons**). Religion mixed with **noble factions** competing for power under weak young kings and their mother, **Catherine de' Medici**.
+
+- **St. Bartholomew's Day Massacre (August 24, 1572):** Catholic mobs killed thousands of Huguenots in Paris and the provinces after the wedding of the Protestant **Henry of Navarre**.
+- Henry of Navarre became **Henry IV** (1589), the first **Bourbon** king. To win Catholic Paris, he **converted to Catholicism** (supposedly saying "**Paris is well worth a Mass**").
+- **Edict of Nantes (1598):** granted **Huguenots freedom of worship** in many places, civil rights, and **fortified towns**. It reflected the **politiques**, who put **political unity and peace above religious uniformity**.
+
+Henry IV was assassinated in 1610. Under **Louis XIII**, **Cardinal Richelieu** (chief minister 1624–1642) built royal absolutism:
+
+- Used royal officials called **intendants** to govern the provinces and collect taxes, bypassing nobles.
+- Destroyed Huguenot **political and military** power by besieging **La Rochelle** (1628) while letting them keep freedom of worship.
+- Tore down nobles' castles and punished dueling and plots.
+- Followed ***raison d'état*** ("**reason of state**"): national interest over religion. He supported **Protestant** Sweden and German princes against the **Catholic Habsburgs** in the Thirty Years' War.
+
+## 5. England: Elizabeth to the Civil War
+- **Elizabeth I** (1558–1603) set a moderate Protestant **Elizabethan Settlement** (1559; the **Thirty-Nine Articles**, 1563), avoided religious civil war, defeated the Armada, and presided over a cultural golden age (**Shakespeare**).
+- **James I** (1603–1625), first **Stuart** king (already James VI of Scotland), believed in the **divine right of kings**: monarchs answer only to God. He sponsored the **King James Bible (1611)** and quarreled with Parliament over money.
+- **Charles I** (1625–1649) raised taxes without Parliament's consent. In the **Petition of Right (1628)**, Parliament declared he could not levy **taxes without Parliament's consent**, **imprison people without cause**, **quarter soldiers** in private homes, or impose **martial law** in peacetime. He then ruled without Parliament (1629–1640), until a Scottish revolt forced him to recall it.
+- The **English Civil War (1642–1649):** **Royalists ("Cavaliers")** vs. **Parliamentarians ("Roundheads")**, many of them **Puritans**. **Oliver Cromwell**'s **New Model Army** won, and Charles I was **executed in 1649**.
+
+## 6. The Thirty Years' War (1618–1648)
+**Causes:** the Peace of Augsburg (1555) had **excluded Calvinism**; Protestant and Catholic princes formed rival alliances; the **Habsburgs** wanted to strengthen imperial and Catholic power; and foreign powers (Denmark, Sweden, France) wanted to stop them.
+
+| Phase | Dates | What happened |
+|---|---|---|
+| **Bohemian** | 1618–1625 | **Defenestration of Prague (1618)**: Bohemian Protestants throw imperial officials out a castle window and choose the Calvinist **Frederick V** as king; crushed at **White Mountain (1620)**; Bohemia forcibly re-Catholicized |
+| **Danish** | 1625–1629 | Lutheran King Christian IV of Denmark intervenes and loses to imperial generals (**Wallenstein**); **Edict of Restitution (1629)** orders Protestants to return Church lands |
+| **Swedish** | 1630–1635 | **Gustavus Adolphus** of Sweden, the "Lion of the North," wins at **Breitenfeld (1631)** but is killed at **Lützen (1632)** |
+| **French (Swedish-French)** | 1635–1648 | **Catholic France** openly fights the Catholic Habsburgs on the Protestant side: **politics over religion** |
+
+>> Armies of mercenaries live off the land for 30 years | Looting, famine, and disease kill perhaps **one-third** of the people in parts of **Germany** | Exhausted powers sign the **Peace of Westphalia (1648)**
+
+**Peace of Westphalia (1648):**
+
+- **Calvinism** added to Lutheranism and Catholicism as a legal option (princes still chose their state's religion).
+- **Independence** of the **Dutch Republic** and the **Swiss Confederation** formally recognized.
+- German princes became virtually **sovereign**, leaving the **Holy Roman Empire** a weak shell.
+- **France** gained territory in **Alsace**; **Sweden** gained Baltic coastal lands.
+- Often called the beginning of the modern **state system**: **sovereign states** that are equal under law, no outside interference in internal religion, and a **balance of power**. It marked the **end of the age of religious wars**, and the pope's protests were ignored.
+
+## 7. Thought and culture
+### The Scientific Revolution begins
+>> Renaissance recovery of ancient texts + new instruments + challenges to authority | Scientists test old authorities (**Aristotle, Ptolemy, Galen**) against **observation, mathematics, and experiment** | A new view of the universe, and conflict with Church teaching
+
+- **Nicolaus Copernicus**, *On the Revolutions of the Heavenly Spheres* (**1543**): a **heliocentric** (Sun-centered) universe, replacing Ptolemy's Earth-centered model.
+- **Andreas Vesalius**, *On the Fabric of the Human Body* (also **1543**): accurate **anatomy** from dissection, correcting Galen.
+- **Tycho Brahe:** extremely precise naked-eye observations of the planets.
+- **Johannes Kepler** (using Tycho's data): planets move in **elliptical orbits**, not perfect circles.
+- **Galileo Galilei:** first to turn a **telescope** on the heavens (1609–1610): **moons of Jupiter**, mountains on the Moon, phases of Venus; laws of **motion** and falling bodies. His *Dialogue Concerning the Two Chief World Systems* (1632) defended Copernicus; the **Inquisition** tried him in **1633** and forced him to recant.
+- **William Harvey** (1628): the **circulation of the blood**, pumped by the heart.
+- **Francis Bacon**: **empiricism** and **inductive** reasoning, building general conclusions from many careful observations and experiments (the scientific method).
+- **René Descartes**: **deductive** reasoning from first principles and mathematics; universal doubt led to "**I think, therefore I am**" (*Discourse on Method*, 1637); **mind–body dualism**; analytic geometry.
+- (Isaac **Newton**'s laws of motion and gravity, 1687, completed this revolution after our period.)
+
+### Political thought
+- **Jean Bodin** (France, 1576): the state must have absolute, undivided **sovereignty** to keep order; a leading **politique**.
+- **Divine right of kings:** **James I** argued that kings were God's lieutenants on earth.
+- **Hugo Grotius** (Dutch), *On the Law of War and Peace* (1625): founder of **international law**, based on natural law.
+- **Michel de Montaigne**, *Essays* (1580): **skepticism** ("What do I know?") and tolerance, a reaction to religious fanaticism.
+
+### Literature and art
+- **William Shakespeare** (1564–1616): plays exploring human nature (*Hamlet*, *King Lear*, *Macbeth*). **Miguel de Cervantes**, ***Don Quixote*** (1605–1615), satirized outdated **chivalric** ideals.
+- **Mannerism** (after the High Renaissance): elongated, distorted figures and tension. Example: **El Greco** (in Spain).
+- **Baroque** (from c. 1600): dramatic, emotional, grand, full of **movement and contrasts of light**; closely tied to the **Catholic Reformation** and absolute monarchs, to inspire awe and faith. Examples: **Caravaggio** (dramatic chiaroscuro), **Bernini** (St. Peter's colonnade, *Ecstasy of St. Teresa*), **Rubens** (Flemish), **Velázquez** (Spanish court).
+- **Dutch Golden Age** painting for **middle-class Protestant** buyers: portraits, landscapes, and **everyday scenes**, by **Rembrandt** (*The Night Watch*, 1642) and **Vermeer**.
+- The **witch hunts** peaked c. 1560–1660; tens of thousands of people, mostly **women**, were executed, a sign of religious anxiety and social stress.
+
+## Big picture for the exam
+Know **who explored where and when** (Dias 1488, Columbus 1492, da Gama 1498, Magellan 1519–22), **Tordesillas**, **conquistadors**, the **Columbian Exchange** and **slave trade**; the **Price Revolution**, **joint-stock companies**, **mercantilism**; **Philip II** (Lepanto, Dutch Revolt, Armada); **France** (St. Bartholomew's, Henry IV, **Edict of Nantes**, Richelieu); **Stuart England** (divine right, Petition of Right, Civil War); the **Thirty Years' War phases** and **Westphalia's terms**; and the early **Scientific Revolution** (Copernicus → Kepler → Galileo; Bacon vs. Descartes).
+
+=== mustknow
+- Exploration motives: **God, gold, glory**; tools: caravel, compass, astrolabe. **Dias (1488)** Cape of Good Hope; **Columbus (1492)**; **Tordesillas (1494)**; **da Gama (1498)** India; **Magellan's** crew circled the globe (1519–22).
+- **Cortés** (Aztecs, 1519–21) and **Pizarro** (Incas, 1532–33) won largely because of **disease**, allies, and weapons; **Columbian Exchange**; **encomienda**; Atlantic **slave trade** for sugar plantations.
+- **Price Revolution:** American silver → 16th-century inflation. **Joint-stock companies** (English EIC 1600, Dutch VOC 1602) spread risk. **Mercantilism:** bullion, favorable trade balance, colonies.
+- **Putting-out system** bypassed guilds; Amsterdam became the financial center.
+- **Philip II:** Catholic champion; **Lepanto (1571)**; **Dutch Revolt** (William of Orange, Union of Utrecht 1579); **Spanish Armada (1588)** defeated by England.
+- **French Wars of Religion:** **St. Bartholomew's Day Massacre (1572)**; **Henry IV** converts; **Edict of Nantes (1598)** tolerates Huguenots; **politiques** put the state first.
+- **Richelieu:** intendants, crushed Huguenot political power (La Rochelle), *raison d'état* (backed Protestants against Habsburgs).
+- England: **James I** (divine right; King James Bible), **Charles I** and the **Petition of Right (1628)**, **English Civil War (1642–49)**, Cromwell.
+- **Thirty Years' War (1618–48):** Defenestration of Prague → Bohemian, Danish, Swedish (**Gustavus Adolphus**), French phases; **Peace of Westphalia**: Calvinism recognized, Dutch and Swiss independence, sovereign German princes, start of modern state system.
+- Science: **Copernicus (1543)** heliocentrism, **Vesalius (1543)** anatomy, **Kepler** ellipses, **Galileo** telescope and trial (1633), **Harvey** circulation, **Bacon** induction/empiricism, **Descartes** deduction ("I think, therefore I am"). Art: **Baroque** (Bernini, Caravaggio, Rubens); literature: **Shakespeare**, **Cervantes**.
+
+=== compare
+| | Francis Bacon | René Descartes |
+|---|---|---|
+| Method | **Inductive**: from many observations to general laws | **Deductive**: from certain first principles to conclusions |
+| Starting point | Experiment, experience (**empiricism**) | Doubt everything; "I think, therefore I am" (**rationalism**) |
+| Key work | *Novum Organum* (1620) | *Discourse on Method* (1637) |
+
+| | Old view (Ptolemy, Aristotle, Galen) | New view |
+|---|---|---|
+| Universe | Earth at center; perfect circles | Sun at center (Copernicus); ellipses (Kepler) |
+| Heavens | Perfect, unchanging | Moon mountains, Jupiter's moons (Galileo) |
+| Body | Galen's anatomy | Vesalius' dissections; Harvey's circulation |
+| Source of truth | Ancient authority | Observation, math, experiment |
+
+=== timeline
+*1488 | 1488 | **Dias** rounds the Cape of Good Hope
+*1492 | 1492 | **Columbus** reaches the Caribbean
+1494 | 1494 | Treaty of Tordesillas divides new lands
+*1498 | 1498 | **Vasco da Gama** reaches India
+1519 | 1519–1521 | Cortés conquers the Aztecs; Magellan's voyage begins (1519–1522)
+1532 | 1532–1533 | Pizarro conquers the Incas
+*1543 | 1543 | **Copernicus** (heliocentrism) and **Vesalius** (anatomy) publish
+1545 | 1545 | Silver discovered at Potosí
+1556 | 1556–1598 | Reign of Philip II of Spain
+1562 | 1562–1598 | French Wars of Religion
+1566 | 1566 | Dutch Revolt against Spain begins
+*1571 | 1571 | **Battle of Lepanto**: Ottoman navy defeated
+*1572 | 1572 | **St. Bartholomew's Day Massacre**
+1579 | 1579 | Union of Utrecht unites northern Dutch provinces
+*1588 | 1588 | **Spanish Armada** defeated by England
+*1598 | 1598 | **Edict of Nantes** grants toleration to Huguenots
+1600 | 1600 | English East India Company chartered
+1602 | 1602 | Dutch East India Company (VOC) founded
+1603 | 1603 | James I: first Stuart king of England
+1605 | 1605 | Cervantes' *Don Quixote* (Part I)
+1607 | 1607 | Jamestown founded; Quebec follows in 1608
+1609 | 1609–1610 | Galileo's telescope observations; Kepler's laws begin
+*1618 | 1618 | **Defenestration of Prague**: Thirty Years' War begins
+1620 | 1620 | White Mountain; Bacon's *Novum Organum*
+1624 | 1624–1642 | Cardinal Richelieu governs France
+*1628 | 1628 | **Petition of Right**; Harvey on circulation; siege of La Rochelle
+1631 | 1631–1632 | Gustavus Adolphus wins at Breitenfeld, dies at Lützen
+*1633 | 1633 | **Galileo** tried by the Inquisition
+1637 | 1637 | Descartes' *Discourse on Method*
+*1642 | 1642 | **English Civil War** begins
+*1648 | 1648 | **Peace of Westphalia** ends the Thirty Years' War
+
+=== people
+Vasco da Gama | Reached India by sea (1498)
+Columbus | Reached the Americas for Spain (1492)
+Magellan | Led first circumnavigation (1519–1522)
+Cortés / Pizarro | Conquered the Aztecs / the Incas
+Las Casas | Friar who denounced Spanish abuse of Native Americans
+Philip II | Spanish Catholic champion; Lepanto; Armada
+William of Orange | Led the Dutch Revolt
+Elizabeth I | Elizabethan Settlement; defeated the Armada
+Henry IV | Bourbon king; converted; Edict of Nantes
+Richelieu | Centralized France; intendants; raison d'état
+Gustavus Adolphus | Swedish king; Protestant hero of the Thirty Years' War
+Copernicus | Heliocentric theory (1543)
+Galileo | Telescope; tried by the Inquisition (1633)
+Bacon / Descartes | Inductive empiricism / deductive rationalism
+Cervantes / Shakespeare | *Don Quixote* / English drama
+
+=== cards
+Caravel :: Small, maneuverable Portuguese ship with lateen sails, key to exploration.
+Treaty of Tordesillas :: 1494 line dividing newly found lands between Spain (west) and Portugal (east, incl. Brazil).
+Vasco da Gama :: Portuguese explorer who reached India by sailing around Africa (1498).
+Conquistadors :: Spanish conquerors of the Americas, e.g., Cortés (Aztecs) and Pizarro (Incas).
+Columbian Exchange :: Transfer of crops, animals, people, and diseases between the Americas and the Old World.
+Encomienda :: Spanish colonial grant of Native American labor to settlers.
+Middle Passage :: The deadly Atlantic crossing of enslaved Africans in the triangular trade.
+Price Revolution :: 16th-century inflation in Europe caused largely by American silver.
+Joint-stock company :: Business funded by selling shares to many investors to share profit and risk (English EIC, Dutch VOC).
+Mercantilism :: Policy that wealth = bullion; seek a favorable trade balance; colonies serve the mother country.
+Putting-out system :: Merchants supplied raw materials to rural households for spinning and weaving, bypassing guilds.
+Philip II :: King of Spain (1556–1598); Catholic champion; Lepanto; the Armada; faced the Dutch Revolt.
+Spanish Armada :: Philip II's fleet sent against England in 1588; defeated.
+St. Bartholomew's Day Massacre :: 1572 slaughter of Huguenots by Catholics in Paris and beyond.
+Edict of Nantes :: Henry IV's 1598 grant of religious toleration and fortified towns to Huguenots.
+Politiques :: Those who put political unity and peace above religious uniformity (e.g., Henry IV, Bodin).
+Richelieu :: Louis XIII's chief minister; intendants; crushed Huguenot military power; raison d'état.
+Divine right of kings :: Belief that monarchs receive authority from God and answer only to God (James I).
+Petition of Right :: 1628: Parliament forbade Charles I to tax without consent, imprison arbitrarily, quarter troops, or impose martial law.
+Defenestration of Prague :: 1618 Bohemian Protestant revolt that began the Thirty Years' War.
+Peace of Westphalia :: 1648: ended the Thirty Years' War; recognized Calvinism and Dutch/Swiss independence; sovereign states.
+Heliocentric theory :: Copernicus' 1543 model placing the Sun at the center of the universe.
+Galileo :: Used the telescope to support Copernicus; forced by the Inquisition to recant (1633).
+Baroque :: Dramatic, emotional, grand art style of the 1600s linked to the Catholic Reformation (Bernini, Caravaggio, Rubens).
