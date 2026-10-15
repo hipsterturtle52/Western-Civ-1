@@ -1,0 +1,215 @@
+=== meta
+id: ema
+intro: After Rome's western collapse, three heirs emerged: Byzantium (Greek, Orthodox), Islam (Arabic, a new faith and empire), and the Latin West (Catholic, Germanic kingdoms). This is the first half of Medieval History (23–27%).
+
+=== lesson
+## 1. Three heirs of Rome
+By 600 CE the old Roman world had split into three civilizations that the exam constantly compares:
+
+- **Byzantine Empire:** the surviving Eastern Roman Empire, Greek-speaking, Orthodox Christian, capital **Constantinople**.
+- **Islamic world:** a new faith from Arabia that built an empire from Spain to India within a century.
+- **Latin West:** Germanic kingdoms, Latin-speaking clergy, the pope in Rome, and a poorer, rural economy.
+
+## 2. The Byzantine Empire
+**Constantinople** controlled the straits between Europe and Asia and the trade routes linking the Black Sea and the Mediterranean. It was rich, well defended by massive land walls, and run by a trained bureaucracy. The **gold coin** (the solidus or "bezant") was trusted across the Mediterranean.
+
+**Justinian** (ruled 527–565), with his influential wife **Theodora**, is the emperor to know:
+
+- **Corpus Juris Civilis** ("Body of Civil Law," **Justinian's Code**): a commission led by Tribonian collected and organized centuries of Roman law. It became the basis of law in most of continental Europe.
+- **Hagia Sophia** ("Holy Wisdom," 537): an enormous domed church.
+- **Nika Riots (532):** rioters nearly toppled him; Theodora convinced him to stay and fight, and the army crushed the revolt.
+- **Reconquest:** his general **Belisarius** retook **North Africa** from the Vandals and **Italy** from the Ostrogoths. But the wars and the **Plague of Justinian (541)** drained the empire, and most of Italy fell to the **Lombards** soon after (568).
+
+**Byzantine features to remember:**
+
+- **Caesaropapism:** the emperor controlled both state **and** church, appointing the **patriarch** of Constantinople. (In the West, popes and kings were separate and often rivals.)
+- **Greek fire:** a secret liquid incendiary weapon that destroyed enemy fleets, helping save the city in the Arab sieges (674–678, 717–718).
+- **Iconoclasm (726–843):** Emperor Leo III banned religious images (**icons**) as idolatry. The fight split Byzantine society and angered the pope; icons were restored in 843.
+- **Missions to the Slavs:** the brothers **Cyril and Methodius** created a Slavic alphabet (the ancestor of **Cyrillic**). Prince **Vladimir of Kiev** converted to Orthodox Christianity in **988**, tying Russia to Byzantine religion and culture.
+
+>> Centuries of disagreement over **papal authority**, the *filioque* clause in the creed, clergy marriage, leavened bread, and language (Latin vs. Greek) | In **1054** the pope's envoy and the patriarch **excommunicate** each other: the **Great Schism** | Christianity splits into the **Roman Catholic** West and the **Eastern Orthodox** East
+
+**Legacy:** for 1,000 years after 476 Byzantium **shielded Europe** from eastern invaders and **preserved Greek classics and Roman law**. It fell to the **Ottoman Turks in 1453**.
+
+## 3. The rise of Islam
+**Muhammad** (c. 570–632) was a merchant of **Mecca**, a trading city in Arabia with a shrine, the **Kaaba**. Around **610** he began receiving revelations he believed came from God (**Allah**) through the angel Gabriel. Mecca's leaders persecuted his followers, so in **622** he moved to **Medina**. This journey, the **Hijra**, marks **year 1 of the Muslim calendar**. By 630 he had returned to take Mecca, and by his death in 632 most of Arabia had accepted Islam ("submission" to God).
+
+**Beliefs:** strict **monotheism**; Muhammad as the **last prophet** in a line including Abraham, Moses, and Jesus; the **Quran** as God's exact words. Jews and Christians were "**People of the Book**."
+
+**Five Pillars of Islam:**
+
+1. **Shahada:** declaring faith ("There is no god but God, and Muhammad is his messenger").
+2. **Salat:** prayer five times a day, facing Mecca.
+3. **Zakat:** giving alms to the poor.
+4. **Sawm:** fasting during the month of **Ramadan**.
+5. **Hajj:** pilgrimage to Mecca once in a lifetime if able.
+
+### Expansion and the caliphates
+After Muhammad, leaders called **caliphs** ("successors") ruled. Arab armies swept out of Arabia and took **Syria, Egypt, and Persia** within about 20 years.
+
+>> Byzantine and Persian (Sassanid) empires exhausted by decades of war against each other | Arab Muslim armies, united by faith, conquer swiftly; they **tax rather than force conversion** of Christians and Jews (who pay the *jizya* tax as protected *dhimmi*) | Many conquered peoples accept Muslim rule, and many gradually convert
+
+**Sunni–Shia split:** a dispute over **who should succeed Muhammad**. **Shia** Muslims believe leadership belonged to **Ali** (Muhammad's cousin and son-in-law) and his descendants; **Sunni** Muslims (the large majority) accepted caliphs chosen by the community. Ali's son **Husayn** was killed at **Karbala (680)**, hardening the split.
+
+| Caliphate | Capital | Key facts |
+|---|---|---|
+| **Umayyad** (661–750) | **Damascus** | Conquered North Africa and **Spain (711)**; stopped in France at **Tours (732)** and at Constantinople (717–718) |
+| **Abbasid** (750–1258) | **Baghdad** (founded 762) | **Islamic Golden Age**; **House of Wisdom**; Baghdad sacked by the **Mongols in 1258** |
+| Umayyad Spain (al-Andalus) | **Córdoba** | Survivor of the Umayyad family; brilliant culture where Muslims, Jews, and Christians interacted |
+
+### The Islamic Golden Age
+Scholars in Baghdad's **House of Wisdom** translated **Greek** works (Aristotle, Galen, Euclid, Ptolemy) into Arabic, preserving and extending them. Many later reached Europe through **Spain and Sicily**.
+
+- **Al-Khwarizmi:** **algebra** (from Arabic *al-jabr*); our word "algorithm" comes from his name.
+- **Number system:** Muslims adopted **Indian numerals including zero**, which Europeans called "Arabic numerals."
+- **Ibn Sina (Avicenna):** the ***Canon of Medicine***, a standard textbook in European universities for centuries.
+- **Ibn Rushd (Averroes)** of Córdoba (12th century): famous commentaries on **Aristotle** that influenced Christian scholastics.
+- Advances in astronomy (astrolabe), optics, chemistry, and huge trade networks.
+
+## 4. The early medieval West
+In the West, cities shrank, roads decayed, trade slowed, and literacy collapsed outside the Church. The **Church** became the main link to Roman civilization.
+
+**Monasticism** was crucial. **Benedict of Nursia** wrote the **Benedictine Rule** (c. 529, Monte Cassino): monks took vows of **poverty, chastity, and obedience** and followed a balanced routine of prayer, work, and study ("**pray and work**"). Monasteries **copied manuscripts**, ran schools and hospitals, cleared land, and sent missionaries. **Irish monks** (Ireland was converted by **St. Patrick** in the 400s) kept learning alive and produced illuminated manuscripts like the **Book of Kells**. The English monk **Bede** wrote a famous ***Ecclesiastical History of the English People*** (731).
+
+**Pope Gregory I, "the Great"** (590–604) strengthened the papacy: he governed the city of Rome, organized Church lands, and sent missionaries to convert the **Anglo-Saxons** in England (597).
+
+## 5. The Franks and Charlemagne
+The **Franks** in Gaul became the most successful Germanic kingdom.
+
+>> **Clovis** (ruled 481–511) unites the Franks and converts directly to **Catholic** (not Arian) Christianity, c. 496 | He wins the support of the pope, bishops, and his Gallo-Roman subjects | The Franks become the Church's chief protectors in the West
+
+Clovis' **Merovingian** descendants grew weak ("do-nothing kings"). Real power passed to the **mayors of the palace**:
+
+- **Charles Martel** ("the Hammer") defeated a Muslim army at **Tours (Poitiers), 732**, halting Muslim expansion into France.
+- His son **Pepin the Short** deposed the last Merovingian with the **pope's approval (751)** and was anointed king, founding the **Carolingian** dynasty. In return he defeated the Lombards and gave the pope land in central Italy (the **Donation of Pepin, 756**), the origin of the **Papal States**.
+
+**Charlemagne** ("Charles the Great," ruled 768–814) built the largest Western state since Rome:
+
+- Conquered the **Saxons** (forcing conversion), the **Lombards** in Italy, and Bavaria, and fought Muslims in Spain (the *Song of Roland* romanticizes a defeat there in 778).
+- Governed through local **counts**, checked by royal inspectors, the ***missi dominici*** ("envoys of the lord"), traveling in pairs (a noble and a bishop). Capital: **Aachen**.
+- On **Christmas Day, 800**, **Pope Leo III** crowned him **"Emperor of the Romans."** This revived the idea of a Western empire, suggested that **popes made emperors** (a claim later popes would use), and offended the Byzantines.
+- **Carolingian Renaissance:** a palace school led by the English scholar **Alcuin of York**; monks copied classical and Christian texts in a clear new script, **Carolingian minuscule** (the ancestor of our lowercase letters). Charlemagne himself struggled to write (we know this from his biographer **Einhard**).
+
+>> Frankish custom divides land among all sons | **Treaty of Verdun (843)** splits the empire among Charlemagne's three grandsons | West Francia becomes the core of **France**, East Francia of **Germany**, and the middle kingdom (Lotharingia, Italy) becomes a battleground
+
+## 6. New invasions (c. 800–1000)
+Europe was attacked from three sides:
+
+- **Vikings** (Norsemen) from Scandinavia, in fast, shallow **longships**: raided monasteries (Lindisfarne, **793**), settled **Normandy** (granted to Rollo in **911**), the English "Danelaw," Iceland, and Greenland, briefly reached **North America (Vinland)**, and helped found the state of **Kievan Rus'**. In England, **Alfred the Great** of Wessex (871–899) resisted them.
+- **Magyars** (Hungarians) on horseback from the east, defeated at **Lechfeld (955)** by the German king **Otto I**, who was crowned emperor in **962**, the start of the **Holy Roman Empire**.
+- **Muslims (Saracens)** raiding from North Africa, Sicily, and the Mediterranean.
+
+## 7. Feudalism and manorialism
+With kings too weak to defend everyone, protection became **local**.
+
+>> Carolingian collapse + Viking, Magyar, and Muslim raids | Local lords with castles and mounted **knights** provide defense in exchange for loyalty and service | **Feudalism**: power is decentralized among nobles bound by personal oaths
+
+**Feudalism** (political/military system among **nobles**):
+
+- A **lord** grants a **fief** (usually land) to a **vassal**.
+- In a ceremony of **homage and fealty**, the vassal swears loyalty and owes **military service** (often ~40 days a year), **counsel** at the lord's court, and **aids** (payments, e.g., to ransom the lord or knight his son).
+- The lord owes the vassal **protection** and justice.
+- Vassals could have their own vassals (**subinfeudation**), and a man could be vassal to several lords, which made loyalties messy.
+- Roots: the Germanic ***comitatus*** (warrior loyalty) + late Roman land-for-service arrangements.
+
+**Manorialism** (economic system):
+
+- The **manor** was a largely **self-sufficient** farming estate: the lord's land (**demesne**), peasants' strips in **open fields**, a mill, a church, and common woods and pasture.
+- **Serfs** were **bound to the land**: not slaves (they couldn't be sold apart from the land and had customary rights to their plots), but not free to leave. They owed **labor** on the demesne (often 3 days a week), a share of crops, and fees (**banalities**) for using the lord's mill, oven, and winepress, plus the **tithe** (one-tenth) to the Church.
+- **Technology** gradually raised output: the **heavy plow** for wet northern soils, the **horse collar**, and the **three-field system** (one field winter grain, one spring crops like beans and oats, one fallow), which increased yields and improved diets.
+
+| | Feudalism | Manorialism |
+|---|---|---|
+| What | Political & military relationships | Economic system |
+| Between | Lords and vassals (all nobles) | Lords and serfs (peasants) |
+| Exchange | Fief ↔ military service, loyalty | Protection and land use ↔ labor, crops, fees |
+| Bond | Personal oath (homage & fealty) | Hereditary obligation to the land |
+
+## Big picture for the exam
+Compare **Byzantium, Islam, and the Latin West**; know **Justinian's Code**, **caesaropapism**, **iconoclasm**, **1054**; **Muhammad** to the **Hijra (622)**, the **Five Pillars**, **Sunni vs. Shia**, **Umayyad vs. Abbasid**, the **House of Wisdom**; **Benedict**, **Gregory the Great**; **Clovis → Charles Martel → Pepin → Charlemagne (800) → Verdun (843)**; and the difference between **feudalism** and **manorialism**.
+
+=== mustknow
+- **Justinian** (527–565): **Corpus Juris Civilis** (Roman law preserved), **Hagia Sophia**, reconquest of Italy/North Africa by Belisarius; wife **Theodora** (Nika Riots).
+- Byzantium = **caesaropapism** (emperor over church), Greek language, **Greek fire**, **iconoclasm** (726–843), **Cyril and Methodius** to the Slavs, **Great Schism of 1054** (Orthodox vs. Catholic).
+- **Muhammad:** revelations c. 610; **Hijra to Medina in 622** = year 1; **Quran**; **Five Pillars** (shahada, salat, zakat, sawm, hajj).
+- **Sunni vs. Shia** = dispute over succession (Shia back **Ali** and his descendants).
+- **Umayyads** (Damascus; conquered Spain 711; stopped at **Tours 732**) → **Abbasids** (Baghdad; **House of Wisdom**; Golden Age; Mongols 1258).
+- Islamic scholars **preserved and translated Greek learning**; **al-Khwarizmi** (algebra), **Avicenna** (medicine), **Averroes** (Aristotle); Indian numerals with zero.
+- **Benedictine Rule** (c. 529): poverty, chastity, obedience; "pray and work"; monks copied manuscripts. **Gregory the Great** strengthened the papacy, sent missionaries to England.
+- **Clovis** converted to Catholic Christianity → **Charles Martel** won at Tours (732) → **Pepin** became king with papal blessing and gave land to the pope (**Papal States**).
+- **Charlemagne** crowned emperor by **Pope Leo III, 800**; **missi dominici**; **Carolingian Renaissance** (Alcuin, minuscule). **Treaty of Verdun (843)** split the empire.
+- **Feudalism** = lord–vassal, fief for military service (homage & fealty); **manorialism** = lord–serf economy; serfs bound to land; **three-field system** and heavy plow raised output.
+
+=== compare
+| c. 800 CE | Byzantine Empire | Islamic Caliphate | Latin West |
+|---|---|---|---|
+| Capital | Constantinople | Baghdad (Abbasid) | Rome (pope); Aachen (Charlemagne) |
+| Language | Greek | Arabic | Latin (Church), Germanic vernaculars |
+| Religious head | Patriarch, under the emperor | Caliph (political-religious) | Pope, separate from kings |
+| Economy | Urban, trade, gold coinage | Urban, vast trade networks | Rural, manorial, little coinage |
+| Legacy | Roman law; Greek classics; Orthodoxy | Preserved and extended Greek science; algebra | Feudalism; Church institutions |
+
+=== timeline
+*496 | c. 496 | **Clovis** converts to Catholic Christianity
+*529 | c. 529 | **Benedictine Rule** written (Monte Cassino)
+*527 | 527–565 | Reign of **Justinian**; Corpus Juris Civilis; Hagia Sophia (537)
+568 | 568 | Lombards invade Italy
+590 | 590–604 | Pope Gregory the Great
+*622 | 622 | **Hijra**: Muhammad moves to Medina (year 1 of Muslim calendar)
+632 | 632 | Muhammad dies; Arab conquests begin
+661 | 661–750 | Umayyad Caliphate (Damascus)
+680 | 680 | Karbala: deepens Sunni–Shia split
+711 | 711 | Muslims invade Spain
+*732 | 732 | **Battle of Tours**: Charles Martel stops Muslim advance
+726 | 726–843 | Byzantine Iconoclasm controversy
+*750 | 750 | **Abbasids** take power; Baghdad founded 762
+751 | 751 | Pepin the Short becomes king with papal approval
+*800 | 800 | **Charlemagne crowned emperor** by Pope Leo III
+793 | 793 | Vikings raid Lindisfarne
+*843 | 843 | **Treaty of Verdun** divides Carolingian Empire
+911 | 911 | Vikings granted Normandy
+955 | 955 | Otto I defeats the Magyars at Lechfeld
+*962 | 962 | Otto I crowned emperor (Holy Roman Empire)
+988 | 988 | Vladimir of Kiev converts to Orthodox Christianity
+*1054 | 1054 | **Great Schism**: Catholic and Orthodox churches split
+
+=== people
+Justinian & Theodora | Byzantine rulers; law code, Hagia Sophia, reconquest
+Belisarius | Justinian's general; retook North Africa and Italy
+Muhammad | Prophet of Islam; Hijra 622
+Ali | Muhammad's cousin/son-in-law; Shia see him as rightful successor
+Al-Khwarizmi | Baghdad mathematician; algebra
+Ibn Sina (Avicenna) | *Canon of Medicine*
+Benedict of Nursia | Rule for monks (c. 529)
+Gregory the Great | Pope 590–604; strengthened papacy; missions to England
+Clovis | Frankish king; converted to Catholic Christianity
+Charles Martel | Won at Tours (732)
+Charlemagne | Emperor (800); missi dominici; Carolingian Renaissance
+Alcuin of York | Led Charlemagne's palace school
+Cyril & Methodius | Missionaries to the Slavs; Slavic alphabet
+
+=== cards
+Justinian's Code (Corpus Juris Civilis) :: Byzantine compilation of Roman law under Justinian (530s); basis of continental European law.
+Hagia Sophia :: Justinian's great domed church in Constantinople (537).
+Theodora :: Justinian's wife and adviser; persuaded him to stand firm during the Nika Riots (532).
+Caesaropapism :: Byzantine system in which the emperor controlled both the state and the Church.
+Greek fire :: Byzantine incendiary weapon used to destroy enemy fleets.
+Iconoclasm :: Byzantine movement (726–843) to ban and destroy religious images.
+Great Schism (1054) :: Mutual excommunications that split Christianity into Roman Catholic and Eastern Orthodox churches.
+Cyril and Methodius :: Byzantine missionaries to the Slavs who created a Slavic alphabet (ancestor of Cyrillic).
+Hijra :: Muhammad's move from Mecca to Medina in 622; year 1 of the Islamic calendar.
+Quran :: Islam's holy book, believed to be God's revelations to Muhammad.
+Five Pillars :: Faith (shahada), prayer (salat), alms (zakat), fasting in Ramadan (sawm), pilgrimage to Mecca (hajj).
+Caliph :: "Successor" to Muhammad as political and religious leader of the Muslim community.
+Sunni vs. Shia :: Split over succession: Shia support Ali and his descendants; Sunni accept caliphs chosen by the community.
+Umayyad Caliphate :: 661–750, capital Damascus; conquered North Africa and Spain.
+Abbasid Caliphate :: 750–1258, capital Baghdad; Islamic Golden Age; ended by the Mongols.
+House of Wisdom :: Abbasid center in Baghdad where Greek works were translated into Arabic.
+Benedictine Rule :: Benedict's guidelines for monks (c. 529): poverty, chastity, obedience; prayer and work.
+Clovis :: Frankish king who converted to Catholic Christianity (c. 496), allying the Franks with the Church.
+Battle of Tours (732) :: Charles Martel's victory halting Muslim advance into Frankish Gaul.
+Charlemagne :: Carolingian king crowned "Emperor of the Romans" by Pope Leo III in 800.
+Missi dominici :: Charlemagne's traveling royal inspectors who checked on local counts.
+Treaty of Verdun (843) :: Split Charlemagne's empire among three grandsons; roughly the future France and Germany.
+Feudalism :: Political-military system: lords grant fiefs to vassals in exchange for military service and loyalty.
+Manorialism / serfs :: Economic system of self-sufficient estates worked by serfs bound to the land, owing labor and fees.
