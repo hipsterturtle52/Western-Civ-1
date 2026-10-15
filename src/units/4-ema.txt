@@ -174,20 +174,19 @@ Compare **Byzantium, Islam, and the Latin West**; know **Justinian's Code**, **c
 *1054 | 1054 | **Great Schism**: Catholic and Orthodox churches split
 
 === people
-Justinian & Theodora | Byzantine rulers; law code, Hagia Sophia, reconquest
+*Justinian & Theodora | Byzantine rulers; law code, Hagia Sophia, reconquest
 Belisarius | Justinian's general; retook North Africa and Italy
-Muhammad | Prophet of Islam; Hijra 622
+*Muhammad | Prophet of Islam; Hijra 622
 Ali | Muhammad's cousin/son-in-law; Shia see him as rightful successor
 Al-Khwarizmi | Baghdad mathematician; algebra
 Ibn Sina (Avicenna) | *Canon of Medicine*
-Benedict of Nursia | Rule for monks (c. 529)
-Gregory the Great | Pope 590–604; strengthened papacy; missions to England
-Clovis | Frankish king; converted to Catholic Christianity
-Charles Martel | Won at Tours (732)
-Charlemagne | Emperor (800); missi dominici; Carolingian Renaissance
+*Benedict of Nursia | Rule for monks (c. 529)
+*Gregory the Great | Pope 590–604; strengthened papacy; missions to England
+*Clovis | Frankish king; converted to Catholic Christianity
+*Charles Martel | Won at Tours (732)
+*Charlemagne | Emperor (800); missi dominici; Carolingian Renaissance
 Alcuin of York | Led Charlemagne's palace school
 Cyril & Methodius | Missionaries to the Slavs; Slavic alphabet
-
 === cards
 Justinian's Code (Corpus Juris Civilis) :: Byzantine compilation of Roman law under Justinian (530s); basis of continental European law.
 Hagia Sophia :: Justinian's great domed church in Constantinople (537).

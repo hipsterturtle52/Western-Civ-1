@@ -130,17 +130,16 @@ The exam asks you to **match a people to its contribution**: Sumerians = cuneifo
 -522 | 522–486 BCE | **Darius I**: satrapies, Royal Road, standard coinage
 
 === people
-Sargon of Akkad | Conquered Sumer c. 2340 BCE; first empire
-Hammurabi | Babylonian king; law code, "eye for an eye," class-based penalties
+*Sargon of Akkad | Conquered Sumer c. 2340 BCE; first empire
+*Hammurabi | Babylonian king; law code, "eye for an eye," class-based penalties
 Menes (Narmer) | United Upper and Lower Egypt c. 3100 BCE
-Akhenaten | Pharaoh who promoted worship of the sun disk Aten alone
+*Akhenaten | Pharaoh who promoted worship of the sun disk Aten alone
 Ramses II | New Kingdom pharaoh; fought the Hittites at Kadesh
 Moses | Led the Exodus; received the Ten Commandments
-Nebuchadnezzar II | Chaldean king; destroyed Jerusalem 586 BCE; rebuilt Babylon
-Cyrus the Great | Founded the Persian Empire; tolerant; freed the Jews (539 BCE)
-Darius I | Organized Persia into satrapies; built the Royal Road
-Zoroaster | Persian prophet; dualism of Ahura Mazda vs. Ahriman
-
+*Nebuchadnezzar II | Chaldean king; destroyed Jerusalem 586 BCE; rebuilt Babylon
+*Cyrus the Great | Founded the Persian Empire; tolerant; freed the Jews (539 BCE)
+*Darius I | Organized Persia into satrapies; built the Royal Road
+*Zoroaster | Persian prophet; dualism of Ahura Mazda vs. Ahriman
 === cards
 Fertile Crescent :: Arc of farmland from the Nile through the eastern Mediterranean coast to the Tigris–Euphrates valley; birthplace of farming and the first cities.
 Neolithic Revolution :: Shift from hunting-gathering to farming and herding (c. 10,000 BCE); the food surplus made cities and specialization possible.

@@ -170,22 +170,21 @@ Know **why Italy**, **humanists and their works** (Petrarch, Valla, Pico, Castig
 1558 | 1558 | Elizabeth I becomes queen
 
 === people
-Petrarch | Father of humanism; recovered classical texts
+*Petrarch | Father of humanism; recovered classical texts
 Lorenzo Valla | Exposed the Donation of Constantine as a forgery
 Lorenzo de' Medici | Florentine ruler and patron ("the Magnificent")
-Machiavelli | *The Prince* (1513): political realism
+*Machiavelli | *The Prince* (1513): political realism
 Castiglione | *The Book of the Courtier*: ideal Renaissance gentleman
 Leonardo da Vinci | *Last Supper*, *Mona Lisa*, notebooks
 Michelangelo | *David*, Sistine Chapel ceiling
-Gutenberg | Movable-type printing press (c. 1450)
-Erasmus | *In Praise of Folly*; Christian humanist; Greek New Testament
+*Gutenberg | Movable-type printing press (c. 1450)
+*Erasmus | *In Praise of Folly*; Christian humanist; Greek New Testament
 Thomas More | *Utopia*; executed for opposing Henry VIII's supremacy
-Martin Luther | 95 Theses (1517); faith alone; Diet of Worms
-John Calvin | *Institutes*; predestination; Geneva
-Henry VIII | Act of Supremacy (1534); Church of England
-Ignatius of Loyola | Founder of the Jesuits (1540)
+*Martin Luther | 95 Theses (1517); faith alone; Diet of Worms
+*John Calvin | *Institutes*; predestination; Geneva
+*Henry VIII | Act of Supremacy (1534); Church of England
+*Ignatius of Loyola | Founder of the Jesuits (1540)
 Charles V | Habsburg emperor; faced Luther at Worms
-
 === cards
 Renaissance :: "Rebirth" of classical learning and art beginning in 14th-century Italy.
 Humanism :: Study of classical texts (grammar, rhetoric, poetry, history, ethics) emphasizing human potential and achievement.

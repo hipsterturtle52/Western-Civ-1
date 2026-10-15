@@ -139,7 +139,7 @@ def parse_unit(path, plan):
     for l in s.get("people", "").splitlines():
         if l.strip():
             n, d = [x.strip() for x in l.split("|", 1)]
-            people.append({"name": n, "desc": inline(d)})
+            people.append({"name": n.lstrip("*"), "desc": inline(d), "key": n.startswith("*")})
     cards = []
     for i, l in enumerate([l for l in s.get("cards", "").splitlines() if l.strip()]):
         if "::" not in l:

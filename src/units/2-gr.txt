@@ -201,21 +201,20 @@ Know the **Athens vs. Sparta** contrast, the **Athenian reformers in order** (Dr
 
 === people
 Homer | Epic poet: *Iliad* and *Odyssey*; heroic ideal of *arete*
-Solon | Athenian reformer: cancelled debts, ended debt slavery (594 BCE)
-Cleisthenes | "Father of Athenian democracy": 10 tribes, Council of 500, ostracism
-Pericles | Leader of Golden Age Athens; Parthenon; pay for public office; Funeral Oration
+*Solon | Athenian reformer: cancelled debts, ended debt slavery (594 BCE)
+*Cleisthenes | "Father of Athenian democracy": 10 tribes, Council of 500, ostracism
+*Pericles | Leader of Golden Age Athens; Parthenon; pay for public office; Funeral Oration
 Themistocles | Built Athens' navy; won at Salamis (480 BCE)
-Herodotus | "Father of history"; wrote on the Persian Wars
-Thucydides | Critical historian of the Peloponnesian War
-Socrates | Questioning (Socratic) method; executed 399 BCE
-Plato | Theory of Forms; *Republic* with philosopher-kings; Academy
-Aristotle | Logic, observation, golden mean; Lyceum; tutored Alexander
+*Herodotus | "Father of history"; wrote on the Persian Wars
+*Thucydides | Critical historian of the Peloponnesian War
+*Socrates | Questioning (Socratic) method; executed 399 BCE
+*Plato | Theory of Forms; *Republic* with philosopher-kings; Academy
+*Aristotle | Logic, observation, golden mean; Lyceum; tutored Alexander
 Sophocles | Tragedian: *Oedipus Rex*, *Antigone*
 Aristophanes | Comic playwright; satire (*Lysistrata*, *The Clouds*)
 Alexander the Great | Conquered Persia to India (336–323 BCE); spread Greek culture
-Zeno / Epicurus | Founders of Stoicism / Epicureanism
+*Zeno / Epicurus | Founders of Stoicism / Epicureanism
 Euclid / Archimedes | Hellenistic geometry / physics and engineering
-
 === cards
 Polis :: Greek city-state: a city and its farmland governed by citizens; typically with an acropolis and agora.
 Acropolis :: Fortified hilltop of a Greek city with its main temples (Athens: the Parthenon).

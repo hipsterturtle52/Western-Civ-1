@@ -202,22 +202,21 @@ Know the **Republic's institutions** and the **plebeian gains**; the **Punic War
 
 === people
 Cincinnatus | Model citizen-dictator who gave up power voluntarily
-Hannibal | Carthaginian general; crossed the Alps; won at Cannae (216 BCE)
+*Hannibal | Carthaginian general; crossed the Alps; won at Cannae (216 BCE)
 Scipio Africanus | Defeated Hannibal at Zama (202 BCE)
-Tiberius & Gaius Gracchus | Tribunes who pushed land reform; both killed
+*Tiberius & Gaius Gracchus | Tribunes who pushed land reform; both killed
 Marius / Sulla | Volunteer army loyal to generals / marched on Rome, dictator
-Julius Caesar | Conquered Gaul; crossed the Rubicon; dictator; killed 44 BCE
+*Julius Caesar | Conquered Gaul; crossed the Rubicon; dictator; killed 44 BCE
 Cicero | Orator and statesman; defended the Republic and natural law
-Augustus | First emperor (27 BCE); princeps; Pax Romana
+*Augustus | First emperor (27 BCE); princeps; Pax Romana
 Virgil | *Aeneid*: epic of Rome's founding honoring Augustus
 Tacitus | Historian; critic of tyranny; *Germania*
 Marcus Aurelius | Stoic emperor; *Meditations*; last of the Five Good Emperors
-Paul of Tarsus | Spread Christianity to Gentiles; Epistles
-Augustine of Hippo | *Confessions*, *City of God*; original sin and grace
-Diocletian | Tetrarchy; split empire; price edict; persecution of 303
-Constantine | Milvian Bridge; Edict of Milan; Nicaea; Constantinople
+*Paul of Tarsus | Spread Christianity to Gentiles; Epistles
+*Augustine of Hippo | *Confessions*, *City of God*; original sin and grace
+*Diocletian | Tetrarchy; split empire; price edict; persecution of 303
+*Constantine | Milvian Bridge; Edict of Milan; Nicaea; Constantinople
 Odoacer | Germanic general who deposed the last western emperor (476)
-
 === cards
 Patricians vs. plebeians :: Rome's aristocratic landowning families vs. the common majority; their conflict was the Struggle of the Orders.
 Consuls :: Two Roman chief magistrates elected for one year; commanded armies; each could veto the other.

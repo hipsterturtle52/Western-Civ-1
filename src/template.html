@@ -219,18 +219,26 @@ input[type=number],input[type=date],select{font:inherit;padding:8px 10px;border-
 @media (max-width:860px){.scrim.on{display:block;position:fixed;inset:0;background:rgba(0,0,0,.35);z-index:25}}
 @media print{
   @page{size:letter landscape;margin:.3in}
-  body{background:#fff;color:#000;font-size:10pt}
+  html,body{background:#fff;color:#000;font-size:10pt}
+  .cheat .tblwrap{break-inside:avoid}
+  .cheat-cols>section:has(> .tblwrap:not(.noprint)) > h2{break-after:avoid}
+  .cheat-cols>section:not(:has(> .tblwrap:not(.noprint))):has(> .tblwrap){display:none}
   .side,.top,.noprint,.banner,.scrim{display:none!important}
   .wrap,.wrap.wide{max-width:none;padding:0}
   .card{box-shadow:none;border:none;padding:0;margin:0}
-  .cheat{font-size:6.6pt;line-height:1.22;color:#000}
-  .cheat h1{font-size:11pt;margin:0}
-  .cheat h2{font-size:7.6pt;margin:3px 0 1px;border-bottom-width:1px;color:#000}
-  .cheat h3{font-size:7pt;margin:3px 0 1px}
-  .cheat-cols{columns:4;column-gap:10px}
-  .cheat .ev b{flex-basis:50px}
-  .cheat table{font-size:6.2pt}
+  .cheat{font-size:5.9pt;line-height:1.16;color:#000}
+  .cheat h1{font-size:9pt;margin:0 0 2px}
+  .cheat h2{font-size:6.8pt;margin:2px 0 1px;border-bottom-width:1px;color:#000;padding:0}
+  .cheat h3{font-size:6.2pt;margin:2px 0 0}
+  .cheat-cols{columns:5;column-gap:8px;column-rule:0.5px solid #ccc}
+  .cheat-cols>section{break-inside:auto;margin-bottom:2px}
+  .cheat .ev{gap:3px;padding:0}
+  .cheat .ev b{flex-basis:44px;font-size:5.6pt}
+  .cheat .pp{padding:0}
+  .cheat table{font-size:5.4pt;line-height:1.1;table-layout:fixed;width:100%;overflow-wrap:anywhere}
+  .cheat th{font-size:5.2pt;letter-spacing:0}
   .cheat th,.cheat td{padding:0 2px;border-color:#bbb}
+  .cheat .tblwrap{margin:1px 0;overflow:visible}
   .cheat .hideable{color:#000!important;background:none!important}
   .cheat .hideable *{color:#000!important}
   a{color:#000;text-decoration:none}
@@ -568,6 +576,12 @@ function byUnitTable(by, extra) {
     return `<tr><td><a href="#/unit/${u.id}">${esc(u.title)}</a></td><td>${u.share.toFixed(1)}%</td><td>${b.c}/${b.n} (${p}%)</td><td>${bar(p, scoreCls(p))}</td>${extra ? `<td>${extra(u, p)}</td>` : ""}</tr>`; }).join("")}
   </tbody></table></div>`;
 }
+function topicRollup(by) {
+  return `<div class="tblwrap"><table><thead><tr><th>Official topic</th><th>Weight</th><th>Score</th></tr></thead><tbody>${DATA.outline.topics.map(t => {
+    const r = U.filter(u => u.topic === t.id && by[u.id]).reduce((x, u) => ({ n: x.n + by[u.id].n, c: x.c + by[u.id].c }), { n: 0, c: 0 });
+    return r.n ? `<tr><td>${esc(t.name)}</td><td>${esc(t.weight)}</td><td><span class="chip ${scoreCls(pct(r.c, r.n))}">${pct(r.c, r.n)}%</span> ${r.c}/${r.n}</td></tr>` : "";
+  }).join("")}</tbody></table></div>`;
+}
 function reviewList(qs, answers) {
   const missed = qs.filter(q => answers[q.id] !== q.a);
   if (!missed.length) return `<p>No misses. 🎉</p>`;
@@ -880,6 +894,7 @@ function examResults(n, k) {
   <span class="ready-badge ${a.score >= READY_PCT ? "yes" : "no"}">${a.score >= READY_PCT ? `≥ ${READY_PCT}% ✓` : `Target: ${READY_PCT}%`}</span></div>
   <p class="small muted">Raw percent correct only. College Board converts raw scores to a 20–80 scaled score (50 = passing credit recommendation) using a conversion it does not publish, so no scaled estimate is shown here. The ${READY_PCT}% bar is a deliberate safety margin.</p>
   <h3>Results by topic</h3>${byUnitTable(a.byUnit)}
+  <h4>Rolled up to the official outline</h4>${topicRollup(a.byUnit)}
   ${weakest.length ? `<p><b>Focus next:</b> ${weakest.map(w => `<a href="#/unit/${w.u.id}">${esc(w.u.title)}</a> (${w.p}%)`).join(", ")}. Then drill the mistake log.</p>` : ""}
   <div class="row"><a class="btn pri" href="#/mistakes">Drill these mistakes</a><a class="btn" href="#/exam/${n}">Exam home</a><a class="btn" href="#/">Dashboard</a></div></div>
   <h3>Answer map</h3><div class="qgrid">${qs.map((q, i) => `<button class="${a.answers[q.id] === q.a ? "r-ok" : "r-bad"}" data-act="jumpq" data-id="${q.id}">${i + 1}</button>`).join("")}</div>
@@ -900,9 +915,9 @@ function cheatPage() {
     <div class="cheat-cols">
       ${key.map(({ u, ev }, i) => `<section><h2>${i + 1}. ${esc(u.title)} <span class="muted" style="font-weight:500">${u.share.toFixed(0)}%</span></h2>
         ${ev.map(t => `<div class="ev"><b class="hideable" data-act="show">${esc(t.label)}</b><span>${t.text}</span></div>`).join("")}
-        ${u.people.length ? `<h3>People</h3>${u.people.slice(0, 9).map(p => `<div class="pp"><b>${esc(p.name)}</b>: <span class="hideable" data-act="show">${p.desc}</span></div>`).join("")}` : ""}
+        ${u.people.some(p => p.key) ? `<h3>People</h3>${u.people.filter(p => p.key).map(p => `<div class="pp"><b>${esc(p.name)}</b>: <span class="hideable" data-act="show">${p.desc}</span></div>`).join("")}` : ""}
       </section>`).join("")}
-      ${U.filter(u => u.compare).map(u => `<section><h2>Compare · ${esc(u.title.split(":")[0])}</h2>${u.compare}</section>`).join("")}
+      ${U.filter(u => u.compare).map(u => `<section><h2>Compare · ${esc(u.title.split(":")[0])}</h2>${u.compare.split('<div class="tblwrap">').filter(Boolean).map((t, k) => `<div class="tblwrap ${k || !["ne", "gr", "ema", "hma", "rr"].includes(u.id) ? "noprint" : ""}">` + t).join("")}</section>`).join("")}
     </div>
   </div>`;
   $("#redraw").onchange = e => $("#cheat").classList.toggle("redraw", e.target.checked);

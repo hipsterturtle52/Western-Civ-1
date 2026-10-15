@@ -161,21 +161,20 @@ Know the **Investiture Controversy** (Gregory VII, Henry IV, Canossa, Worms), **
 *1453 | 1453 | Ottomans take **Constantinople**; Hundred Years' War ends
 
 === people
-Gregory VII | Reform pope; Investiture Controversy; Canossa (1077)
+*Gregory VII | Reform pope; Investiture Controversy; Canossa (1077)
 Henry IV | German emperor humbled at Canossa
-Innocent III | Height of papal power; Fourth Lateran Council (1215)
-Urban II | Launched the First Crusade (1095)
+*Innocent III | Height of papal power; Fourth Lateran Council (1215)
+*Urban II | Launched the First Crusade (1095)
 Saladin | Muslim sultan who retook Jerusalem (1187)
 Francis of Assisi | Founder of the Franciscans; radical poverty
 William the Conqueror | Won at Hastings (1066); Domesday Book
 Henry II | English common law, juries; clash with Becket
-King John | Lost Normandy; forced to sign Magna Carta (1215)
+*King John | Lost Normandy; forced to sign Magna Carta (1215)
 Philip IV | French king; Estates-General; clash with Boniface VIII
-Thomas Aquinas | *Summa Theologica*; faith and reason united
+*Thomas Aquinas | *Summa Theologica*; faith and reason united
 Dante / Chaucer | *Divine Comedy* (Italian) / *Canterbury Tales* (English)
-Joan of Arc | Lifted siege of Orléans (1429); burned 1431
-John Wycliffe / Jan Hus | Pre-Reformation critics of the papacy
-
+*Joan of Arc | Lifted siege of Orléans (1429); burned 1431
+*John Wycliffe / Jan Hus | Pre-Reformation critics of the papacy
 === cards
 Charter (town) :: Document from a lord or king granting a town self-government and freedoms.
 Guilds :: Associations of merchants or craftsmen regulating prices, quality, and training (apprentice → journeyman → master).

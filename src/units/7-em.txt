@@ -188,22 +188,21 @@ Know **who explored where and when** (Dias 1488, Columbus 1492, da Gama 1498, Ma
 *1648 | 1648 | **Peace of Westphalia** ends the Thirty Years' War
 
 === people
-Vasco da Gama | Reached India by sea (1498)
+*Vasco da Gama | Reached India by sea (1498)
 Columbus | Reached the Americas for Spain (1492)
 Magellan | Led first circumnavigation (1519–1522)
 Cortés / Pizarro | Conquered the Aztecs / the Incas
 Las Casas | Friar who denounced Spanish abuse of Native Americans
-Philip II | Spanish Catholic champion; Lepanto; Armada
+*Philip II | Spanish Catholic champion; Lepanto; Armada
 William of Orange | Led the Dutch Revolt
 Elizabeth I | Elizabethan Settlement; defeated the Armada
-Henry IV | Bourbon king; converted; Edict of Nantes
-Richelieu | Centralized France; intendants; raison d'état
-Gustavus Adolphus | Swedish king; Protestant hero of the Thirty Years' War
-Copernicus | Heliocentric theory (1543)
-Galileo | Telescope; tried by the Inquisition (1633)
-Bacon / Descartes | Inductive empiricism / deductive rationalism
+*Henry IV | Bourbon king; converted; Edict of Nantes
+*Richelieu | Centralized France; intendants; raison d'état
+*Gustavus Adolphus | Swedish king; Protestant hero of the Thirty Years' War
+*Copernicus | Heliocentric theory (1543)
+*Galileo | Telescope; tried by the Inquisition (1633)
+*Bacon / Descartes | Inductive empiricism / deductive rationalism
 Cervantes / Shakespeare | *Don Quixote* / English drama
-
 === cards
 Caravel :: Small, maneuverable Portuguese ship with lateen sails, key to exploration.
 Treaty of Tordesillas :: 1494 line dividing newly found lands between Spain (west) and Portugal (east, incl. Brazil).
