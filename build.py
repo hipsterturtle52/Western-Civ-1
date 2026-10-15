@@ -34,6 +34,21 @@ def inline(s):
     return s
 
 
+def render_list(items):
+    html_, open_sub = "<ul>", False
+    for i, (lvl, txt) in enumerate(items):
+        if lvl == 1 and not open_sub:
+            html_ = html_[:-5] + "<ul>" if html_.endswith("</li>") else html_ + "<ul>"
+            open_sub = True
+        elif lvl == 0 and open_sub:
+            html_ += "</ul></li>"
+            open_sub = False
+        html_ += "<li>" + inline(txt) + "</li>"
+    if open_sub:
+        html_ += "</ul></li>"
+    return html_ + "</ul>"
+
+
 def md(text):
     out, para, lst, tbl = [], [], [], []
 
@@ -42,7 +57,7 @@ def md(text):
             out.append("<p>" + inline(" ".join(para)) + "</p>")
             para.clear()
         if lst:
-            out.append("<ul>" + "".join("<li>" + inline(x) + "</li>" for x in lst) + "</ul>")
+            out.append(render_list(lst))
             lst.clear()
         if tbl:
             rows = [[c.strip() for c in r.strip().strip("|").split("|")] for r in tbl
@@ -75,15 +90,15 @@ def md(text):
             if para:
                 out.append("<p>" + inline(" ".join(para)) + "</p>"); para.clear()
             if lst:
-                out.append("<ul>" + "".join("<li>" + inline(x) + "</li>" for x in lst) + "</ul>"); lst.clear()
+                out.append(render_list(lst)); lst.clear()
             tbl.append(s)
-        elif s.startswith("- "):
+        elif re.match(r"^\s*- ", s):
             if para:
                 out.append("<p>" + inline(" ".join(para)) + "</p>"); para.clear()
-            lst.append(s[2:])
+            lst.append((1 if s.startswith(" ") else 0, s.strip()[2:]))
         else:
             if lst:
-                out.append("<ul>" + "".join("<li>" + inline(x) + "</li>" for x in lst) + "</ul>"); lst.clear()
+                out.append(render_list(lst)); lst.clear()
             para.append(s.strip())
     flush()
     return "\n".join(out)

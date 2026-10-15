@@ -1,0 +1,218 @@
+=== meta
+id: rr
+intro: Roughly 1350–1565: Italian humanism and art, the printing press and northern Christian humanism, kings building "new monarchies," and the split of Western Christianity into Protestant and reformed Catholic churches. Worth 13–17%.
+
+=== lesson
+## 1. Why the Renaissance began in Italy
+"Renaissance" means **rebirth**, meaning the rebirth of interest in the art and learning of **classical Greece and Rome**. It began in northern Italy around **1350** and spread north after about 1450.
+
+>> Italian city-states grow rich from Mediterranean **trade and banking**; Roman ruins all around; Greek scholars arrive from Byzantium (especially after **1453**) | Wealthy merchants, princes, and popes become **patrons**, spending on scholars, artists, and buildings to win prestige | A burst of classical learning and art centered in **Florence**, then Rome and Venice
+
+**Italian politics:** no unified kingdom. Five major powers: **Florence** (a republic dominated by the **Medici** banking family: Cosimo and **Lorenzo "the Magnificent"**), **Venice** (a merchant republic led by an elected doge), **Milan** (dukes, the Sforza), the **Papal States**, and the **Kingdom of Naples**. The **Peace of Lodi (1454)** created a **balance of power** among them, and Italians developed modern **diplomacy** with permanent ambassadors. The balance broke when **France invaded in 1494**, beginning decades of **Italian Wars**. In Florence, the fiery Dominican friar **Savonarola** briefly ruled (1494–1498), burned luxuries in the "bonfire of the vanities," and was himself burned. In **1527**, mutinous troops of Emperor **Charles V** **sacked Rome**.
+
+## 2. Humanism
+**Humanism** was an educational and intellectual movement: the study of the classics, the ***studia humanitatis*** (grammar, rhetoric, poetry, history, moral philosophy), to produce eloquent, virtuous, active citizens. Humanists were **not anti-religious**, but they focused on **human potential and achievement in this world** (**secularism**) and celebrated **individualism**.
+
+- **Petrarch** (1304–1374), the "**father of humanism**": hunted down lost classical manuscripts, wrote letters to the long-dead Cicero, wrote sonnets in Italian, and called the centuries after Rome a "dark" age.
+- **Boccaccio:** the ***Decameron***, worldly tales told by people fleeing the Black Death.
+- **Civic humanism** (Leonardo **Bruni**, Florence): classical learning should serve active public life in a republic.
+- **Lorenzo Valla** used **textual analysis (philology)** to prove that the **Donation of Constantine**, a document supporting papal claims to rule the West, was a **forgery** (1440).
+- **Marsilio Ficino** led the **Platonic Academy** in Florence and translated Plato.
+- **Pico della Mirandola**, ***Oration on the Dignity of Man*** (1486): humans have free will to shape themselves, rising toward angels or sinking toward beasts.
+- **Baldassare Castiglione**, ***The Book of the Courtier*** (1528): the ideal gentleman is skilled in arms, letters, music, and conversation, all done with effortless grace (*sprezzatura*): the "**Renaissance man**."
+- **Niccolò Machiavelli**, ***The Prince*** (1513): a ruler must be guided by **political realism**, not Christian morality; "it is **safer to be feared than loved**"; a prince must sometimes do evil to preserve the state. Machiavelli is called the father of modern **political science**.
+
+Educated elite women could gain humanist learning, and some were major patrons (**Isabella d'Este**), but most women's legal and social position did not improve.
+
+## 3. Renaissance art
+Renaissance art featured **realism**, **classical themes and forms**, **individual portraits**, and new techniques: **linear perspective** (a vanishing point creating depth), **chiaroscuro** (light and shadow), and **oil paint**.
+
+| Artist | Known for |
+|---|---|
+| **Giotto** (c. 1300) | Forerunner: natural, emotional figures |
+| **Brunelleschi** | Worked out **linear perspective**; built the great **dome of Florence Cathedral** |
+| **Masaccio** | First painter to use perspective systematically (*Holy Trinity*) |
+| **Donatello** | Bronze ***David***: first freestanding nude statue since antiquity |
+| **Botticelli** | ***Birth of Venus***: classical mythology for Medici patrons |
+| **Leonardo da Vinci** | ***Last Supper***, ***Mona Lisa***, notebooks of anatomy and inventions: the ultimate "Renaissance man" |
+| **Michelangelo** | Marble ***David***, **Sistine Chapel ceiling** (for Pope Julius II), dome of St. Peter's |
+| **Raphael** | ***School of Athens*** (Plato and Aristotle at the center); Madonnas |
+| **Titian** | Venetian master of rich color |
+
+The **High Renaissance** (c. 1490–1527) centered on **Rome**, where popes such as **Julius II** and **Leo X** (a Medici) commissioned masterpieces and rebuilt **St. Peter's Basilica**.
+
+## 4. The Northern Renaissance and the printing press
+>> **Johannes Gutenberg** of Mainz develops **movable metal type** (c. 1450); the **Gutenberg Bible** appears c. 1455 | Books become cheap and plentiful; by 1500 millions have been printed across Europe | **Literacy** spreads, scholarship becomes standardized, and new ideas (including Luther's) **spread faster than authorities can suppress them**
+
+Northern humanists, the **Christian humanists**, used humanist scholarship to **reform Christianity** by returning to its original sources (*ad fontes*: the Bible and early Church Fathers in their original languages).
+
+- **Desiderius Erasmus** (Dutch): ***In Praise of Folly*** (1509) satirized corrupt clergy, empty rituals, and superstition; published an accurate **Greek New Testament** (1516). He wanted **reform from within** and never left the Catholic Church. Contemporaries said "**Erasmus laid the egg that Luther hatched**."
+- **Thomas More** (England): ***Utopia*** (1516), an imaginary island society with common property, criticizing European greed and injustice. He was **executed in 1535** for refusing to accept Henry VIII as head of the English Church.
+- **François Rabelais** (France): bawdy satire in *Gargantua and Pantagruel*.
+
+**Northern art** emphasized **detailed realism**, everyday life, and religious devotion, often in **oil paint** (perfected by Flemish painters):
+
+- **Jan van Eyck:** oil-painting pioneer; ***Arnolfini Portrait*** (intense detail).
+- **Albrecht Dürer** (Germany): brought Italian techniques north; famous **woodcuts and engravings**.
+- **Hans Holbein the Younger:** portraits of **Henry VIII** and Thomas More.
+- **Pieter Bruegel the Elder:** scenes of **peasant life** (*Peasant Wedding*).
+
+## 5. The New Monarchies (c. 1450–1550)
+After the chaos of the 1300s, kings in Western Europe built stronger, more centralized states. Common methods: **standing armies** (paid troops with cannon, which could knock down nobles' castles), **new taxes**, royal courts and **middle-class officials** loyal to the crown, curbing the great nobles, and **controlling the Church in their lands**.
+
+- **France:** **Louis XI** ("the Spider King," 1461–1483) expanded royal territory and taxes after the Hundred Years' War. **Francis I**'s **Concordat of Bologna (1516)** let the king **appoint French bishops and abbots**, giving him control of the French Church without breaking with Rome.
+- **England:** **Henry VII**, first **Tudor** king, won the **Battle of Bosworth (1485)**, ending the **Wars of the Roses**. He tamed the nobles (the **Court of Star Chamber** tried powerful men without juries), filled the treasury, and avoided costly wars.
+- **Spain:** the marriage of **Ferdinand of Aragon and Isabella of Castile (1469)** joined Spain's two largest kingdoms. In **1492** they conquered **Granada**, completing the **Reconquista**, **expelled the Jews** (Muslims were forced to convert or leave soon after), and sponsored **Columbus**. The **Spanish Inquisition (1478)**, controlled by the crown, enforced religious unity.
+- **Holy Roman Empire:** the **Habsburgs** grew through **marriage alliances** rather than central government. Their heir **Charles V** inherited **Spain**, its American empire, Naples, the **Netherlands**, and **Austria**, and was elected emperor in **1519**: the most powerful ruler in Europe, but the German princes stayed largely independent.
+
+## 6. The Protestant Reformation
+**Long-term causes:**
+
+- **Church abuses:** **simony**, **pluralism** (one man holding several church offices), **absenteeism** (not living in one's diocese), **nepotism**, and poorly educated priests.
+- **Worldly Renaissance popes:** Alexander VI (Borgia), the warrior pope Julius II, and Leo X spent lavishly.
+- **Indulgences:** remissions of punishment for sin, increasingly **sold** for cash.
+- **Humanist criticism** and Bible study (Erasmus), the **printing press**, the earlier movements of **Wycliffe and Hus**.
+- **Political:** princes and kings resented papal taxes and wanted control of Church lands and offices; growing **national feeling**, especially in Germany.
+
+>> To fund the rebuilding of **St. Peter's**, the friar **Johann Tetzel** sells indulgences in Germany ("As soon as the coin in the coffer rings, the soul from purgatory springs") | **Martin Luther**, a monk and professor at **Wittenberg**, posts the **Ninety-Five Theses** (October 31, **1517**) challenging indulgences | Printed copies spread across Germany in weeks; a theological debate becomes a revolt against Rome
+
+### Martin Luther (1483–1546)
+Luther's key teachings:
+
+- **Justification by faith alone (*sola fide*):** salvation comes only through faith, a free gift of God's grace, **not by good works** or buying indulgences.
+- **Scripture alone (*sola scriptura*):** the **Bible** is the only authority, not popes or councils.
+- **Priesthood of all believers:** all Christians have direct access to God; clergy are not a separate holy class and **may marry**. (Luther married a former nun, Katharina von Bora.)
+- Only **two sacraments** (baptism and the Eucharist), with Christ **really present** in the bread and wine, though Luther rejected transubstantiation.
+
+The confrontation: excommunicated in **1521**, he refused to recant at the **Diet of Worms (1521)** before Emperor **Charles V** ("Here I stand; I can do no other"). The **Edict of Worms** made him an outlaw, but **Frederick the Wise**, elector of **Saxony**, protected him in Wartburg Castle, where he **translated the New Testament into German**.
+
+**German Peasants' War (1524–1525):** peasants cited Luther's ideas of Christian freedom to demand an end to serfdom. Luther **sided with the princes**, urging them to crush the revolt. From then on Lutheranism spread **with the support of princes**, who also gained control of church property.
+
+The name "**Protestant**" comes from princes who **protested** an imperial decision at the Diet of Speyer (1529). After years of war between Charles V and the Protestant **Schmalkaldic League**, the **Peace of Augsburg (1555)** ruled that each German prince could choose **Lutheranism or Catholicism** for his territory: ***cuius regio, eius religio*** ("whose realm, his religion"). **Calvinism was not included**, a problem that helped cause the Thirty Years' War (Unit 7).
+
+### Zwingli, Calvin, and the radicals
+- **Ulrich Zwingli** (Zurich): even more radical in stripping churches of images; taught that the Eucharist is only a **symbolic** remembrance. He and Luther **disagreed at Marburg (1529)**, so Protestants never united. Zwingli died in battle (1531).
+- **John Calvin** (a Frenchman in **Geneva**): ***Institutes of the Christian Religion*** (1536). Central doctrine: **predestination**, meaning God has already chosen the "**elect**" for salvation. Geneva became a model Protestant city governed by strict moral discipline (the **consistory** of pastors and elders policed behavior). Calvinism spread internationally: **Huguenots** (France), **Presbyterians** in Scotland (**John Knox**), **Puritans** (England), and the **Dutch Reformed** Church. Later writers (Max Weber) linked Calvinist discipline and hard work to the rise of capitalism.
+- **Anabaptists** ("re-baptizers"): **adult baptism** only, **separation of church and state**, often **pacifism** and shared property. Persecuted by Catholics and Protestants alike, especially after radicals seized **Münster (1534–1535)**. Descendants include the **Mennonites** (and later Amish).
+
+### The English Reformation: politics first
+>> **Henry VIII** needs a male heir; his wife **Catherine of Aragon** has given him only a daughter (Mary) | The pope refuses an annulment, under pressure from Catherine's nephew, Emperor **Charles V** | Parliament's **Act of Supremacy (1534)** makes the **king head of the Church of England**; Henry marries **Anne Boleyn**
+
+Henry **dissolved the monasteries** (1536–1540) and sold their lands to nobles and gentry, who then supported the break. Doctrine stayed largely **Catholic** under Henry. His son **Edward VI** pushed Protestantism (Archbishop **Cranmer**'s **Book of Common Prayer**). **Mary I** restored Catholicism and burned about 300 Protestants ("**Bloody Mary**"). **Elizabeth I** (1558–1603) set a moderate, Protestant **Elizabethan Settlement** (the Church of England as a "middle way," with the monarch as Supreme Governor).
+
+## 7. The Catholic Reformation (Counter-Reformation)
+The Catholic Church responded with genuine reform **and** firm defense of doctrine.
+
+- **Pope Paul III** (1534–1549) appointed reformers and called the **Council of Trent (1545–1563)**:
+  - **Reaffirmed** doctrine: salvation by **faith and good works**, **all seven sacraments**, **transubstantiation**, the authority of **both Scripture and Church tradition**, the Latin Vulgate, and **Latin Mass**.
+  - **Reformed** abuses: ended the sale of indulgences (while keeping indulgences), required bishops to **live in their dioceses**, and created **seminaries** to train priests.
+- **Jesuits (Society of Jesus):** founded by **Ignatius of Loyola**, a former Spanish soldier; approved **1540**. Organized like an army with absolute **obedience to the pope**, they excelled at **education** (schools and universities), **missionary work** (**Francis Xavier** in India and Japan), and winning back areas like Poland and southern Germany.
+- **Roman Inquisition (1542)** prosecuted heresy; the ***Index of Prohibited Books*** (1559) banned dangerous works.
+- New piety: **Teresa of Ávila** (Carmelite reform, mysticism); the **Ursulines** educated girls.
+
+## Big picture for the exam
+Know **why Italy**, **humanists and their works** (Petrarch, Valla, Pico, Castiglione, Machiavelli), **artists and works**, **Gutenberg's impact**, **Erasmus and More**, the **New Monarchs** (Louis XI, Henry VII, Ferdinand and Isabella), **Luther's ideas and steps** (1517, 1521, Peasants' War, 1555), **Calvin vs. Luther**, **Anabaptists**, the **English Reformation's political cause**, and **Trent + Jesuits**.
+
+=== mustknow
+- Renaissance began in **Italy (c. 1350)**: wealthy trading city-states, **patrons** (Medici, popes), Roman heritage, Byzantine scholars; focus on **humanism, individualism, secularism**.
+- **Petrarch** = father of humanism; **Valla** exposed the **Donation of Constantine** as a forgery; **Pico**'s *Oration on the Dignity of Man*; **Castiglione**'s *Courtier*.
+- **Machiavelli's *The Prince*** (1513): political realism; better to be feared than loved.
+- Art: **perspective** (Brunelleschi, Masaccio), **Leonardo** (*Last Supper*, *Mona Lisa*), **Michelangelo** (*David*, Sistine Chapel), **Raphael** (*School of Athens*); North: **van Eyck** (oils), **Dürer** (engravings), **Bruegel** (peasants).
+- **Gutenberg's movable type (c. 1450)** spread literacy and Reformation ideas rapidly.
+- **Christian humanists:** **Erasmus** (*Praise of Folly*, Greek New Testament; reform from within), **Thomas More** (*Utopia*).
+- **New Monarchies:** **Louis XI**; **Henry VII** (Bosworth 1485, Star Chamber); **Ferdinand and Isabella** (Granada, expulsion of Jews, Columbus, all **1492**; Spanish Inquisition); Habsburg **Charles V**.
+- **Luther:** **95 Theses (1517)** vs. indulgences; **faith alone, Scripture alone, priesthood of all believers**; **Diet of Worms (1521)**; sided with princes in the **Peasants' War**; **Peace of Augsburg (1555)**: *cuius regio, eius religio* (Lutheran or Catholic only).
+- **Calvin** (Geneva): **predestination**, *Institutes*; spread to Huguenots, Presbyterians (Knox), Puritans, Dutch. **Anabaptists:** adult baptism, church-state separation.
+- **Henry VIII:** **Act of Supremacy (1534)** for political/dynastic reasons. **Council of Trent (1545–63)** reaffirmed doctrine and reformed abuses; **Jesuits** (Loyola, 1540) for education and missions.
+
+=== compare
+| | Catholic (after Trent) | Lutheran | Calvinist | Anglican (Church of England) |
+|---|---|---|---|---|
+| Salvation | Faith **and** good works | Faith alone | Faith alone; **predestination** | Faith alone (Protestant articles) |
+| Authority | Scripture **+** tradition; pope | Scripture alone | Scripture alone | Scripture; monarch heads church |
+| Sacraments | Seven; transubstantiation | Two; real presence (not transubstantiation) | Two; spiritual presence | Two main sacraments; ritual kept |
+| Church government | Pope, bishops | Princes oversee state churches | Elders and ministers (presbyteries) | Monarch, bishops |
+| Where | Italy, Spain, France, Poland, S. Germany | N. Germany, Scandinavia | Geneva, Scotland, Netherlands, Huguenot France | England |
+
+| | Italian Renaissance | Northern Renaissance |
+|---|---|---|
+| Focus | Classical revival, civic life, individual glory | Christian reform, piety (Christian humanism) |
+| Thinkers | Petrarch, Valla, Pico, Machiavelli | Erasmus, More, Rabelais |
+| Art | Classical forms, perspective, idealized figures | Detailed realism, oil paint, everyday life |
+| Artists | Leonardo, Michelangelo, Raphael | Van Eyck, Dürer, Holbein, Bruegel |
+
+=== timeline
+1350 | c. 1350 | Petrarch and humanism in Italy
+1436 | 1436 | Brunelleschi's dome of Florence Cathedral completed
+*1440 | 1440 | **Valla** proves the Donation of Constantine a forgery
+*1450 | c. 1450 | **Gutenberg's** movable-type press (Bible c. 1455)
+1454 | 1454 | Peace of Lodi: balance of power in Italy
+1469 | 1469 | Marriage of Ferdinand and Isabella
+*1485 | 1485 | **Henry VII** wins at Bosworth; Tudor dynasty
+1486 | 1486 | Pico's *Oration on the Dignity of Man*
+*1492 | 1492 | Granada conquered; **Jews expelled from Spain**; Columbus sails
+1494 | 1494 | France invades Italy; Savonarola rules Florence
+1508 | 1508–1512 | Michelangelo paints the Sistine Chapel ceiling
+1509 | 1509 | Erasmus' *In Praise of Folly*
+*1513 | 1513 | **Machiavelli** writes *The Prince*
+1516 | 1516 | More's *Utopia*; Erasmus' Greek New Testament; Concordat of Bologna
+*1517 | 1517 | **Luther's Ninety-Five Theses**
+1519 | 1519 | Charles V elected Holy Roman Emperor
+*1521 | 1521 | **Diet of Worms**: Luther refuses to recant
+1524 | 1524–1525 | German Peasants' War
+1527 | 1527 | Sack of Rome by imperial troops
+1528 | 1528 | Castiglione's *Book of the Courtier*
+*1534 | 1534 | **Act of Supremacy**: Henry VIII heads the Church of England
+1536 | 1536 | Calvin's *Institutes*; dissolution of English monasteries begins
+*1540 | 1540 | Pope approves the **Jesuits** (Ignatius of Loyola)
+*1545 | 1545–1563 | **Council of Trent**
+*1555 | 1555 | **Peace of Augsburg**: *cuius regio, eius religio*
+1558 | 1558 | Elizabeth I becomes queen
+
+=== people
+Petrarch | Father of humanism; recovered classical texts
+Lorenzo Valla | Exposed the Donation of Constantine as a forgery
+Lorenzo de' Medici | Florentine ruler and patron ("the Magnificent")
+Machiavelli | *The Prince* (1513): political realism
+Castiglione | *The Book of the Courtier*: ideal Renaissance gentleman
+Leonardo da Vinci | *Last Supper*, *Mona Lisa*, notebooks
+Michelangelo | *David*, Sistine Chapel ceiling
+Gutenberg | Movable-type printing press (c. 1450)
+Erasmus | *In Praise of Folly*; Christian humanist; Greek New Testament
+Thomas More | *Utopia*; executed for opposing Henry VIII's supremacy
+Martin Luther | 95 Theses (1517); faith alone; Diet of Worms
+John Calvin | *Institutes*; predestination; Geneva
+Henry VIII | Act of Supremacy (1534); Church of England
+Ignatius of Loyola | Founder of the Jesuits (1540)
+Charles V | Habsburg emperor; faced Luther at Worms
+
+=== cards
+Renaissance :: "Rebirth" of classical learning and art beginning in 14th-century Italy.
+Humanism :: Study of classical texts (grammar, rhetoric, poetry, history, ethics) emphasizing human potential and achievement.
+Petrarch :: "Father of humanism"; collected classical manuscripts; wrote Italian sonnets.
+Patron / Medici :: Wealthy sponsor of art and learning; the Medici banking family dominated Florence.
+Lorenzo Valla :: Humanist who used philology to prove the Donation of Constantine a forgery (1440).
+Oration on the Dignity of Man :: Pico della Mirandola (1486): humans can freely shape their own nature.
+The Courtier :: Castiglione's 1528 guide to the ideal, well-rounded Renaissance gentleman.
+The Prince :: Machiavelli's 1513 handbook of political realism; better to be feared than loved.
+Linear perspective :: Technique using a vanishing point to create the illusion of depth (Brunelleschi, Masaccio).
+Leonardo da Vinci :: Painter of the *Last Supper* and *Mona Lisa*; scientist-inventor; model "Renaissance man."
+Michelangelo :: Sculptor of *David*; painter of the Sistine Chapel ceiling.
+School of Athens :: Raphael's fresco of Greek philosophers, with Plato and Aristotle at the center.
+Gutenberg :: Developed movable-type printing in Mainz (c. 1450); printed the Gutenberg Bible.
+Christian humanism :: Northern movement applying humanist scholarship to reform Christianity (Erasmus, More).
+Erasmus :: Dutch humanist; *In Praise of Folly*; Greek New Testament; sought reform within the Church.
+Utopia :: Thomas More's 1516 book on an ideal society, criticizing European injustice.
+Jan van Eyck :: Flemish master of oil painting known for minute realistic detail (*Arnolfini Portrait*).
+New Monarchies :: 15th-century kings (Louis XI, Henry VII, Ferdinand & Isabella) who centralized power with armies, taxes, and officials.
+Ferdinand and Isabella :: Joint rulers of Spain; conquered Granada, expelled Jews, sponsored Columbus (1492).
+Indulgence :: Church remission of punishment for sin; its sale sparked Luther's protest.
+Ninety-Five Theses :: Luther's 1517 propositions attacking the sale of indulgences.
+Justification by faith alone :: Luther's teaching that salvation comes through faith and God's grace, not good works.
+Diet of Worms :: 1521 assembly where Luther refused to recant before Charles V; declared an outlaw.
+Peace of Augsburg :: 1555: each German prince chooses Lutheranism or Catholicism for his land (*cuius regio, eius religio*).
+Predestination :: Calvin's doctrine that God has already chosen who will be saved (the elect).
+Anabaptists :: Radical reformers: adult baptism, separation of church and state, often pacifism.
+Act of Supremacy (1534) :: Made Henry VIII head of the Church of England after the pope refused his annulment.
+Council of Trent :: 1545–1563: reaffirmed Catholic doctrine (faith and works, seven sacraments) and reformed abuses (seminaries).
+Jesuits :: Society of Jesus, founded by Ignatius of Loyola (1540); education, missions, loyalty to the pope.
